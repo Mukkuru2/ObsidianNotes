@@ -1,8 +1,7 @@
 # The Gold Prince
 
 - Quick Links:
-    
-    
+[TO BE ADDED]
 
 # Basic Info
 
