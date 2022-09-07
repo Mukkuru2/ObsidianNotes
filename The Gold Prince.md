@@ -25,8 +25,6 @@
 
 [Description and Backstory](Description%20and%20Backstory%20eb3d5d3ec2e14c00bc17eff2085d9273.md)
 
-![Untitled](Wildemount/Wildemount/The%20Gold%20Prince/Untitled.png)
-
 # Basic Stats
 
 ---
