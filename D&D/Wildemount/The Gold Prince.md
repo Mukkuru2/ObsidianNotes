@@ -29,8 +29,12 @@
 
 ---
 
-| ![[Strength]] | ![[Dexterity]] | ![[Constitution]] | ![[Wisdom]] | ![[Intelligence]] | ![[Charisma]] |
-| ------------- | -------------- | ----------------- | ----------- | ----------------- | ------------- |
+| Strength | Dexterity | Constitution | Wisdom | Intelligence | Charisma |
+| -------- | --------- | ------------ | ------ | ------------ | -------- |
+|          |           |              |        |              |          |
+
+^abilitystats
+
 
 ---
 

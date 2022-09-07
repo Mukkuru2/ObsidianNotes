@@ -14,18 +14,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "3758c6bd49e1d183",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "D&D/Wildemount/The Gold Prince/Abilities/Strength.md",
-            "mode": "source",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -141,8 +129,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -151,8 +138,8 @@
   },
   "active": "df015cdcd922611c",
   "lastOpenFiles": [
-    "D&D/Wildemount/The Gold Prince/Abilities/Strength.md",
     "D&D/Wildemount/The Gold Prince.md",
+    "D&D/Wildemount/The Gold Prince/Abilities/Strength.md",
     "D&D/Wildemount/NPCs/Characters.md",
     "D&D/Wildemount/World.md",
     "D&D/Wildemount/The Gold Prince/Abilities/Wisdom.md",

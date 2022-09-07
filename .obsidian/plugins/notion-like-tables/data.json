@@ -1,0 +1,130 @@
+{
+  "appData": {},
+  "state": {
+    "D&D/Wildemount/The Gold Prince.md": {
+      "abilitystats": {
+        "data": {
+          "headers": [
+            {
+              "id": "1268105c-ef1e-42df-bcd1-f01e560d69d5",
+              "content": "Strength",
+              "sortDir": "default",
+              "width": "100px",
+              "shouldWrapOverflow": true,
+              "useAutoWidth": false,
+              "type": "text"
+            },
+            {
+              "id": "6d727153-ebf4-436a-b2f2-1a9041b25a7a",
+              "content": "Dexterity",
+              "sortDir": "default",
+              "width": "100px",
+              "shouldWrapOverflow": true,
+              "useAutoWidth": false,
+              "type": "text"
+            },
+            {
+              "id": "64676d26-7fa0-4288-8dd8-cc7eb2c776ed",
+              "content": "Constitution",
+              "sortDir": "default",
+              "width": "100px",
+              "shouldWrapOverflow": true,
+              "useAutoWidth": false,
+              "type": "text"
+            },
+            {
+              "id": "fc93df84-bfd9-41bd-bfb7-b787e31af6dc",
+              "content": "Wisdom",
+              "sortDir": "default",
+              "width": "100px",
+              "shouldWrapOverflow": true,
+              "useAutoWidth": false,
+              "type": "text"
+            },
+            {
+              "id": "3ef988b2-0bfe-4227-9e73-540d11df7e68",
+              "content": "Intelligence",
+              "sortDir": "default",
+              "width": "100px",
+              "shouldWrapOverflow": true,
+              "useAutoWidth": false,
+              "type": "text"
+            },
+            {
+              "id": "740ca25b-5ddd-4768-a9e7-e0763f2b1f0d",
+              "content": "Charisma",
+              "sortDir": "default",
+              "width": "100px",
+              "shouldWrapOverflow": true,
+              "useAutoWidth": false,
+              "type": "text"
+            }
+          ],
+          "rows": [
+            {
+              "id": "241b7838-f953-47cc-aa18-33c59ddeae88",
+              "creationTime": 1662556592143
+            }
+          ],
+          "cells": [
+            {
+              "id": "dd261d7d-b10c-4526-9799-3d0f712c7b23",
+              "headerId": "1268105c-ef1e-42df-bcd1-f01e560d69d5",
+              "rowId": "241b7838-f953-47cc-aa18-33c59ddeae88",
+              "type": "text",
+              "content": ""
+            },
+            {
+              "id": "34e5be69-da8c-47cc-8088-632e2cfde3df",
+              "headerId": "6d727153-ebf4-436a-b2f2-1a9041b25a7a",
+              "rowId": "241b7838-f953-47cc-aa18-33c59ddeae88",
+              "type": "text",
+              "content": ""
+            },
+            {
+              "id": "927e1915-2e3b-4a5d-a599-a3ee4a9b4507",
+              "headerId": "64676d26-7fa0-4288-8dd8-cc7eb2c776ed",
+              "rowId": "241b7838-f953-47cc-aa18-33c59ddeae88",
+              "type": "text",
+              "content": ""
+            },
+            {
+              "id": "0678e23a-f8ba-48e9-8870-3e059d8fb5c2",
+              "headerId": "fc93df84-bfd9-41bd-bfb7-b787e31af6dc",
+              "rowId": "241b7838-f953-47cc-aa18-33c59ddeae88",
+              "type": "text",
+              "content": ""
+            },
+            {
+              "id": "8864591d-ea8a-4db5-9ede-530a0609323f",
+              "headerId": "3ef988b2-0bfe-4227-9e73-540d11df7e68",
+              "rowId": "241b7838-f953-47cc-aa18-33c59ddeae88",
+              "type": "text",
+              "content": ""
+            },
+            {
+              "id": "e87ae0ff-b5ee-4bc4-be55-e5051b909214",
+              "headerId": "740ca25b-5ddd-4768-a9e7-e0763f2b1f0d",
+              "rowId": "241b7838-f953-47cc-aa18-33c59ddeae88",
+              "type": "text",
+              "content": ""
+            }
+          ],
+          "tags": []
+        },
+        "viewType": "reading",
+        "shouldUpdate": true,
+        "tableCacheVersion": 431
+      }
+    }
+  },
+  "sectionInfo": {
+    "lineStart": -1,
+    "lineEnd": -1
+  },
+  "focusedElement": {
+    "id": "-1",
+    "type": "unfocused"
+  },
+  "excludedFiles": []
+}
