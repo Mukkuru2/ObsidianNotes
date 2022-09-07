@@ -1,4 +1,4 @@
---- 
+---
 cssclass: clean-embeds 
 ---
 
@@ -28,16 +28,15 @@ cssclass: clean-embeds
 
 # Basic Stats
 
----
-
-| ![[Strength]] | Dexterity | Constitution | Wisdom | Intelligence | Charisma |
-| -------- | --------- | ------------ | ------ | ------------ | -------- |
-|          |           |              |        |              |          |
-
-^abilitystats
-
+| Value | STR | DEX | CON | WIS | INT | CHA |
+| ----- | --- | --- | --- | --- | --- | --- |
+| MOD   |     |     |     |     |     |     |
+| PROF  |     |     |     |     |     |     |
+| SAVE  |     |     |     |     |     |     |
+| SCORE |     |     |     |     |     |     |
 
 ---
+
 
 Proficiency Bonus: +2
 
@@ -66,8 +65,6 @@ Passive Investigation: 9
 4/10 sorc points
 
 # Detailed Stats
-
----
 
 ---
 
@@ -143,6 +140,8 @@ Passive Investigation: 9
     
     *When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.*
     
+
+
 
 ### Racial
 
@@ -314,5 +313,3 @@ Spellcasting Modifier: +4
     
     [Spell List](Spell%20List%20d1e2a3ece1b54c929193f3ec27ec9dab.csv)
     
-
----
