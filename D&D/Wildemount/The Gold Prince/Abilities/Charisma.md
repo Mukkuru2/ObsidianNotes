@@ -1,5 +1,3 @@
-# Charisma
-
 Modifier: 2
 Proficient?: Yes
 Save: 4

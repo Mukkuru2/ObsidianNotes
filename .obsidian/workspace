@@ -14,6 +14,18 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "3758c6bd49e1d183",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "D&D/Wildemount/The Gold Prince/Abilities/Strength.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -139,15 +151,15 @@
   },
   "active": "df015cdcd922611c",
   "lastOpenFiles": [
-    "D&D/Wildemount/The Gold Prince/Abilities/Wisdom.md",
-    "D&D/Wildemount/The Gold Prince/Abilities/Charisma.md",
-    "D&D/Wildemount/The Gold Prince/Abilities/Constitution.md",
-    "D&D/Wildemount/The Gold Prince/Abilities/Dexterity.md",
-    "D&D/Wildemount/The Gold Prince/Abilities/Intelligence.md",
     "D&D/Wildemount/The Gold Prince/Abilities/Strength.md",
     "D&D/Wildemount/The Gold Prince.md",
-    "D&D/Wildemount/The Gold Prince/Description and Backstory.md",
-    "D&D/Wildemount/The Gold Prince/Notes.md",
-    "D&D/Wildemount/The Gold Prince/Notes/Dreams ae052b4accec47328627e4178644508f.md"
+    "D&D/Wildemount/NPCs/Characters.md",
+    "D&D/Wildemount/World.md",
+    "D&D/Wildemount/The Gold Prince/Abilities/Wisdom.md",
+    "D&D/Wildemount/The Gold Prince/Abilities/Intelligence.md",
+    "D&D/Wildemount/The Gold Prince/Abilities/Dexterity.md",
+    "D&D/Wildemount/The Gold Prince/Abilities/Charisma.md",
+    "D&D/Wildemount/The Gold Prince/Abilities/Constitution.md",
+    "D&D/Wildemount/The Gold Prince/Description and Backstory.md"
   ]
 }

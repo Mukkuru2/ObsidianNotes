@@ -1,5 +1,3 @@
-# Dexterity
-
 Modifier: 2
 Proficient?: No
 Save: 2
