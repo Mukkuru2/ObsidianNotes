@@ -1,12 +1,13 @@
+--- 
+cssclass: clean-embeds 
+---
+
 # The Gold Prince
 
 - Quick Links:
 [TO BE ADDED]
 
 # Basic Info
-
----
-
 ---
 
 **Full Name**: Berrk't
@@ -29,7 +30,7 @@
 
 ---
 
-| Strength | Dexterity | Constitution | Wisdom | Intelligence | Charisma |
+| ![[Strength]] | Dexterity | Constitution | Wisdom | Intelligence | Charisma |
 | -------- | --------- | ------------ | ------ | ------------ | -------- |
 |          |           |              |        |              |          |
 
