@@ -29,6 +29,10 @@
 
 ---
 
+| STR           | DEX | CON | WIS | INT | CHA |
+| ------------- | --- | --- | --- | --- | --- |
+| ![[Strength]] | ![[Dexterity]]    |     |     |     |     |
+
 ---
 
 Proficiency Bonus: +2

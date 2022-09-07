@@ -1,0 +1,7 @@
+﻿Ability,Score,Modifier,Save,Proficient?,Notes
+Strength,18,4,4,No,
+Dexterity,14,2,2,No,
+Constitution,14,2,2,No,
+Intelligence,8,-1,-1,No,
+Wisdom,11,0,2,Yes,
+Charisma,14,2,4,Yes,

@@ -1,0 +1,6 @@
+﻿Resource Name,Description,Tags,Recovery,Resource Type,Max,Used,Left,Notes
+Divine Sense,"As an action, you can detect good and evil. Until the end of your next turn, you can sense anything affected by the hallow spell or know the location of any celestial, fiend, undead within 60 ft. that is not behind total cover. You can use this feature 3 times per long rest.",Support,Long Rest,Count,3,0,3,
+Lay on Hands,"You have a pool of healing power that can restore 10 HP per long rest. As an action, you can touch a creature to restore any number of HP remaining in the pool, or 5 HP to either cure a disease or neutralize a poison affecting the creature.",Healing,Long Rest,Count,25,0,25,Level*5 charges
+Relentless Endurance,"When you are reduced to 0 HP but not killed, you can drop to 1 HP instead once per long rest.","Combat, Healing",Long Rest,Count,1,0,1,
+Channel Divinity,"https://www.notion.so/b171d41729d54ebd8f10eef72fa7b644 
+https://www.notion.so/465c093c550549c7a8cc3d71c01030d3 ",Arcane,Short Rest,Count,1,0,1,

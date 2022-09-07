@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "D&D/Wildemount/World.md",
+            "file": "D&D/Wildemount/The Gold Prince.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Wildemount/World.md",
+                "file": "D&D/Wildemount/The Gold Prince.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Wildemount/World.md",
+                "file": "D&D/Wildemount/The Gold Prince.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,11 +117,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Wildemount/World.md"
+                "file": "D&D/Wildemount/The Gold Prince.md"
               }
             }
+          },
+          {
+            "id": "627360a1a1474df6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -130,8 +139,15 @@
   },
   "active": "df015cdcd922611c",
   "lastOpenFiles": [
+    "D&D/Wildemount/The Gold Prince/Abilities/Wisdom.md",
+    "D&D/Wildemount/The Gold Prince/Abilities/Charisma.md",
+    "D&D/Wildemount/The Gold Prince/Abilities/Constitution.md",
+    "D&D/Wildemount/The Gold Prince/Abilities/Dexterity.md",
+    "D&D/Wildemount/The Gold Prince/Abilities/Intelligence.md",
+    "D&D/Wildemount/The Gold Prince/Abilities/Strength.md",
     "D&D/Wildemount/The Gold Prince.md",
-    "Hub.md",
-    "Wildemount/Wildemount/The Gold Prince/Untitled.png.md"
+    "D&D/Wildemount/The Gold Prince/Description and Backstory.md",
+    "D&D/Wildemount/The Gold Prince/Notes.md",
+    "D&D/Wildemount/The Gold Prince/Notes/Dreams ae052b4accec47328627e4178644508f.md"
   ]
 }
