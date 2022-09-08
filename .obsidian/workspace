@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "D&D/Wildemount/The Gold Prince.md",
+            "file": "Hub.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Wildemount/The Gold Prince.md",
+                "file": "Hub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Wildemount/The Gold Prince.md",
+                "file": "Hub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Wildemount/The Gold Prince.md"
+                "file": "Hub.md"
               }
             }
           },
@@ -138,8 +138,8 @@
   },
   "active": "df015cdcd922611c",
   "lastOpenFiles": [
-    "D&D/Wildemount/The Gold Prince/Abilities/Charisma.md",
     "D&D/Wildemount/The Gold Prince.md",
+    "D&D/Wildemount/The Gold Prince/Abilities/Charisma.md",
     "D&D/Wildemount/The Gold Prince/Abilities/Strength.md",
     "D&D/Wildemount/NPCs/Characters.md",
     "D&D/Wildemount/World.md",
