@@ -31,12 +31,13 @@ cssclass: clean-embeds
 | ----------------- | ---------- | ------------- | ------------ |
 | +2                |            |               |              |
 
-| Hit Dice Total | Hit Dice Current | AC  | Unarmored AC | 
+| Hit Dice Total | Hit Dice Current | AC  | Unarmored AC |
 | -------------- | ---------------- | --- | ------------ |
+| 1d10           | 1d10             | 16  |              |
 
 | Passive Perception | Passive Insight | Passive Investigation |
 | ------------------ | --------------- | --------------------- |
-|                    |                 |                       |
+| 12                 | 12              | 13                    | 
 
 # Detailed Stats
 
@@ -144,13 +145,17 @@ TO BE ADDED
 [[Perfume, vial]]
 [[Rope, hempen (50 feet)]]
 [[Signet ring]]
-[[]]
+[[Sealing wax]] 
+[[Torch, 5x]]
+[[Hammer]]
+[[Dragonchess Set]]
+
 
 ### Extra
 A tiny silver icon of a raven
 
 
-total cost: 132
+total cost: 134gp, 5cp
 
 
 # Combat
