@@ -10,7 +10,19 @@
           "type": "markdown",
           "state": {
             "file": "D&D/Wildemount/The Gold Prince.md",
-            "mode": "preview",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "c0e3c18372a3e8ab",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "D&D/Wildemount/The Gold Prince.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -128,7 +140,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "df015cdcd922611c",
+  "active": "c0e3c18372a3e8ab",
   "lastOpenFiles": [
     "D&D/Wildemount/The Gold Prince/gold-prince.png",
     "D&D/Wildemount/The Gold Prince/Notes.md",

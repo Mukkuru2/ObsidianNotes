@@ -25,26 +25,11 @@ cssclass: clean-embeds
 [[Description and Backstory]]
 
 # Basic Stats
-
-| Value | STR                     | DEX                     | CON                     | WIS                     | INT                     | CHA                     |
-| ----- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- |
-| MOD   | 18                      | 10                      | 16                      | 14                      | 16                      | 14                      |
-| SAVE  |                         |                         |                         |                         |                         |                         |
-| SCORE |                         |                         |                         |                         |                         |                         |
-| PROF  | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | 
-
-
-Score increases from background:
-+1 on strength, due to fighting training as nobility
-+1 on constitution, due to having healthy and plentiful food as a child
-+1 on charisma due to being a sexy motherfucker
-
 ---
 
-
-| Proficiency Bonus | Initiative             | Walking Speed | Other Speeds |
-| ----------------- | ---------------------- | ------------- | ------------ |
-|                   |                        |               |              |
+| Proficiency Bonus | Initiative | Walking Speed | Other Speeds |
+| ----------------- | ---------- | ------------- | ------------ |
+| +2                |            |               |              |
 
 | Hit Dice Total | Hit Dice Current | AC  | Unarmored AC | 
 | -------------- | ---------------- | --- | ------------ |
@@ -63,11 +48,41 @@ Score increases from background:
 
 ---
 
+| Value | STR                     | DEX                     | CON                     | WIS                     | INT                     | CHA                     |
+| ----- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- |
+| MOD   | 18                      | 10                      | 16                      | 14                      | 16                      | 14                      |
+| SCORE | +4                      | +0                      | +3                      | +2                      | +3                      | +2                      |
+| SAVE  | +4                      | +0                      | +5                      | +2                      | +3                      | +4                        |
+| PROF  | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> |
+
+- Score increases from background:
+	- +1 on strength, due to fighting training as nobility
+	- +1 on constitution, due to having healthy and plentiful food as a child
+	- +1 on charisma due to being a sexy motherfucker
 
 ## Skills
 
 ---
-
+| Skill           | Mod | Proficient |
+| --------------- | --- | ---------- |
+| Athletics       | 4   |            |
+| Acrobatics      | 0   |            |
+| Sleight of Hand | 0   |            |
+| Stealth         | 0   |            |
+| Arcana          | 3   |            |
+| History         | 3   |            |
+| Investigation   | 3   |            |
+| Nature          | 3   |            |
+| Religion        | 3   |            |
+| Animal Handling | 2   |            |
+| Insight         | 2   |            |
+| Medicine        | 2   |            |
+| Perception      | 2   |            |
+| Survival        | 2   |            |
+| Deception       | 2   |            |
+| Intimidation    | 2   |            |
+| Performance     | 2   |            |
+| Persuasion      | 2   |            |
 
 
 # Detailed Info
