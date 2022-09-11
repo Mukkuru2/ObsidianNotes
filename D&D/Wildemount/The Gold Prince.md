@@ -26,16 +26,18 @@ cssclass: clean-embeds
 
 # Basic Stats
 
-| Value | STR | DEX | CON | WIS | INT | CHA |
-| ----- | --- | --- | --- | --- | --- | --- |
-| MOD   |     |     |     |     |     |     |
-| PROF  |     |     |     |     |     |     |
-| SAVE  |     |     |     |     |     |     |
-| SCORE |     |     |     |     |     |     |
-| 
-|     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- |
-|     |     |     |     |     |     |
+| Value | STR                     | DEX                     | CON                     | WIS                     | INT                     | CHA                     |
+| ----- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- |
+| MOD   | 18                      | 10                      | 16                      | 14                      | 16                      | 14                      |
+| SAVE  |                         |                         |                         |                         |                         |                         |
+| SCORE |                         |                         |                         |                         |                         |                         |
+| PROF  | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | 
+
+
+Score increases from background:
++1 on strength, due to fighting training as nobility
++1 on constitution, due to having healthy and plentiful food as a child
++1 on charisma due to being a sexy motherfucker
 
 ---
 
@@ -74,13 +76,12 @@ Passive Investigation: 9
 
 ---
 
-[Abilities](Abilities%20d09b4f759a5c405a973a1d6a6e86ea70.csv)
 
 ## Skills
 
 ---
 
-[Modifiers](Modifiers%20dac00e2abbf44ecc9cc793e272746fec.csv)
+
 
 # Detailed Info
 

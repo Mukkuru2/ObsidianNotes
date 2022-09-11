@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "D&D/Wildemount/The Gold Prince.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -130,8 +130,9 @@
   },
   "active": "df015cdcd922611c",
   "lastOpenFiles": [
-    "D&D/Wildemount/The Gold Prince/Notes.md",
+    "Modifiers dac00e2abbf44ecc9cc793e272746fec.csv.md",
     "D&D/Wildemount/The Gold Prince.md",
+    "D&D/Wildemount/The Gold Prince/Notes.md",
     "D&D/Wildemount/The Gold Prince/Description and Backstory.md",
     "Hub.md",
     "The Gold Prince.md"
