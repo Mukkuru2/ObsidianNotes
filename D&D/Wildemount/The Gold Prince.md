@@ -48,12 +48,12 @@ cssclass: clean-embeds
 
 ---
 
-| Value | STR                     | DEX                     | CON                     | WIS                     | INT                     | CHA                     |
-| ----- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- |
-| MOD   | 18                      | 10                      | 16                      | 14                      | 16                      | 14                      |
-| SCORE | +4                      | +0                      | +3                      | +2                      | +3                      | +2                      |
-| SAVE  | +4                      | +0                      | +5                      | +2                      | +3                      | +4                        |
-| PROF  | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> |
+| Value | STR | DEX | CON | WIS | INT | CHA |
+| ----- | --- | --- | --- | --- | --- | --- |
+| MOD   | 18  | 10  | 16  | 14  | 16  | 14  |
+| SCORE | +4  | +0  | +3  | +2  | +3  | +2  |
+| SAVE  | +4  | +0  | +5  | +2  | +3  | +4  |
+| PROF  | x   | -   | x   | -   | -   | -   | 
 
 - Score increases from background:
 	- +1 on strength, due to fighting training as nobility
@@ -65,12 +65,12 @@ cssclass: clean-embeds
 ---
 | Skill           | Mod | Proficient |
 | --------------- | --- | ---------- |
-| Athletics       | 4   |            |
+| Athletics       | 6   | x          | 
 | Acrobatics      | 0   |            |
 | Sleight of Hand | 0   |            |
 | Stealth         | 0   |            |
-| Arcana          | 3   |            |
-| History         | 3   |            |
+| Arcana          | 5   | x          |
+| History         | 5   | x          |
 | Investigation   | 3   |            |
 | Nature          | 3   |            |
 | Religion        | 3   |            |
@@ -81,61 +81,17 @@ cssclass: clean-embeds
 | Survival        | 2   |            |
 | Deception       | 2   |            |
 | Intimidation    | 2   |            |
-| Performance     | 2   |            |
+| Performance     | 4   | x          |
 | Persuasion      | 2   |            |
 
 
 # Detailed Info
-
----
-
 ---
 
 ## Features
-
 ---
-
 ### Class
 
-- **Divine Sense**
-    
-    As an action, you can detect good and evil. Until the end of your next turn, you can sense anything affected by the hallow spell or know the location of any celestial, fiend, undead within 60 ft. that is not behind total cover. You can use this feature **3** times per long rest.
-    
-- **Lay on Hands**
-    
-    You have a pool of healing power that can restore **20** HP per long rest. As an action, you can touch a creature to restore any number of HP remaining in the pool, or 5 HP to either cure a disease or neutralize a poison affecting the creature.
-    
-- **Fighting Style**
-    
-    You adopt a style of fighting as your specialty.
-    
-    **Defense**
-    
-    While you are wearing armor, you gain a +1 bonus to AC.
-    
-- **Spellcasting**
-    
-    You can cast prepared paladin spells using CHA as your spellcasting modifier (Spell DC **12**, Spell Attack **+4**). You can use a holy symbol as a spellcasting focus.
-    
-- **Divine Smite**
-    
-    When you hit with a melee weapon attack, you can expend one spell slot to deal 2d8 extra radiant damage to the target plus 1d8 for each spell level higher than 1st (max 5d8) and plus 1d8 against undead or fiends (max 6d8 total).
-    
-- **Extra Attack**
-    
-    Beginning at 5th level, you can attack twice, instead of once, whenever you take the **[Attack](https://www.dndbeyond.com/compendium/rules/basic-rules/combat#Attack)** action on your turn.
-    
-
-### Oath
-
-- **Channel Divinity**
-    
-    Your oath allows you to channel divine energy to fuel magical effects. Each Channel Divinity option provided by your oath explains how to use it.
-    
-    When you use your Channel Divinity, you choose which option to use. You must then finish a short or long rest to use your Channel Divinity again.
-    
-    Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your paladin spell save DC.
-    
 
 ### Feats
 
