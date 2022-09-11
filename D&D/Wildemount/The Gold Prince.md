@@ -42,35 +42,22 @@ Score increases from background:
 ---
 
 
-Proficiency Bonus: +2
+| Proficiency Bonus | Initiative             | Walking Speed | Other Speeds |
+| ----------------- | ---------------------- | ------------- | ------------ |
+|                   |                        |               |              |
 
-Initiative: +2
+| Hit Dice Total | Hit Dice Current | AC  | Unarmored AC | 
+| -------------- | ---------------- | --- | ------------ |
 
-Walking Speed: 30
-
-Other Speeds: 
-
-Hit Dice Total: 5d10
-
-Hit Dice Current: 5d10
-
-AC: 17
-
-Unarmored AC: 
-
-Inspiration: -
-
-Passive Perception: 10
-
-Passive Insight: 12
-
-Passive Investigation: 9
-
-4/10 sorc points
+| Passive Perception | Passive Insight | Passive Investigation |
+| ------------------ | --------------- | --------------------- |
+|                    |                 |                       |
 
 # Detailed Stats
 
 ---
+
+
 
 ## Abilities and Saves
 
