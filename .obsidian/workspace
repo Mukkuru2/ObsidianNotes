@@ -14,18 +14,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "c0e3c18372a3e8ab",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "D&D/Wildemount/The Gold Prince.md",
-            "mode": "source",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -140,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c0e3c18372a3e8ab",
+  "active": "df015cdcd922611c",
   "lastOpenFiles": [
+    "D&D/Wildemount/The Gold Prince/Notes/Dreams ae052b4accec47328627e4178644508f.md",
+    "D&D/Wildemount/The Gold Prince/Notes/Gods 6449fdb467144e89af551027dae63440.md",
+    "D&D/Wildemount/The Gold Prince.md",
     "D&D/Wildemount/The Gold Prince/gold-prince.png",
     "D&D/Wildemount/The Gold Prince/Notes.md",
     "D&D/Wildemount/The Gold Prince/Description and Backstory.md",
     "The.md",
-    "D&D/Wildemount/The Gold Prince.md",
     "D&D/Wildemount/The Gold Prince/Modifiers/Acrobatics f6ae348a8c884af4b731e2a9982dc09b.md",
     "D&D/Wildemount/The Gold Prince/Modifiers/Insight 3be3c0c5a8954068adaef886102896b6.md",
-    "D&D/Wildemount/The Gold Prince/Modifiers/Stealth e96506c54c8f45f092b921b908e31357.md",
-    "D&D/Wildemount/The Gold Prince/Modifiers/Religion ba45488664c942daa64c59f2a75e480e.md",
-    "D&D/Wildemount/The Gold Prince/Modifiers/Performance 27d25ae00e4a48a5a36eabbd1fc68521.md"
+    "D&D/Wildemount/The Gold Prince/Modifiers/Stealth e96506c54c8f45f092b921b908e31357.md"
   ]
 }

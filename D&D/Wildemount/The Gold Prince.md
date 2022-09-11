@@ -63,26 +63,26 @@ cssclass: clean-embeds
 ## Skills
 
 ---
-| Skill           | Mod | Proficient |
-| --------------- | --- | ---------- |
-| Athletics       | 6   | x          | 
-| Acrobatics      | 0   |            |
-| Sleight of Hand | 0   |            |
-| Stealth         | 0   |            |
-| Arcana          | 5   | x          |
-| History         | 5   | x          |
-| Investigation   | 3   |            |
-| Nature          | 3   |            |
-| Religion        | 3   |            |
-| Animal Handling | 2   |            |
-| Insight         | 2   |            |
-| Medicine        | 2   |            |
-| Perception      | 2   |            |
-| Survival        | 2   |            |
-| Deception       | 2   |            |
-| Intimidation    | 2   |            |
-| Performance     | 4   | x          |
-| Persuasion      | 2   |            |
+| Skill           | Mod | Proficient | Notes        |
+| --------------- | --- | ---------- | ------------ |
+| Athletics       | 6   | x          |              |
+| Acrobatics      | 0   |            |              |
+| Sleight of Hand | 0   |            |              |
+| Stealth         | 0   |            | Disadvantage |
+| Arcana          | 5   | x          |              |
+| History         | 5   | x          |              |
+| Investigation   | 3   |            |              |
+| Nature          | 3   |            |              |
+| Religion        | 3   |            |              |
+| Animal Handling | 2   |            |              |
+| Insight         | 2   |            |              |
+| Medicine        | 2   |            |              |
+| Perception      | 2   |            |              |
+| Survival        | 2   |            |              |
+| Deception       | 2   |            |              |
+| Intimidation    | 2   |            |              |
+| Performance     | 4   | x          |              |
+| Persuasion      | 2   |            |              |
 
 
 # Detailed Info
@@ -95,20 +95,12 @@ cssclass: clean-embeds
 
 ### Feats
 
-- **Extra Fighting Style**
-    
-    **Two-Weapon Fighting**
-    
-    *When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.*
-    
-
 
 
 ### Racial
 
 - **Breath Weapon** 
 	When you take the Attack action on your turn, you can replace one of the attacks with an exhalation of destructive magical energy in a 15 ft. cone. Every creature in that area must make a Dexterity saving throw, the DC equal to 8 + your proficiency bonus + your Con modifier. On a failed save a creature takes 1d10 damage of the type associated with your Metallic Ancestry or half as much damage on successful save. The damage increases to 2d10 at 5th level, 3d10 at 11th level, and 4d10 at 17th level. You can use this ability a number of times equal to your proficiency bonus per long rest.
-
 
 - **Draconic Resistance** 
 	Fire Resistance
@@ -121,7 +113,6 @@ cssclass: clean-embeds
 
 
 ## Proficiencies
-
 ---
 
 ### Weapons & armor
@@ -134,23 +125,19 @@ cssclass: clean-embeds
 TO BE ADDED
 
 ## Languages
+---
 
 ## Items
-
 ---
 
 ### Currency
-
-[Wealth Distribution](Wealth%20Distribution%2038321da7f26a47c39e6579d56c82ae15.csv)
-
-(-10 to Hoki)
+150 GP
 
 ### Equipment
+[[Chainmail]]
+[[Shield]]
+[[]]
 
-- Click to Expand
-    
-    [Inventory](Inventory%2059d774490e794b6b9cc6ba453f48c710.csv)
-    
 
 # Combat
 
