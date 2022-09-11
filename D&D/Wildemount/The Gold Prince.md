@@ -106,51 +106,34 @@ cssclass: clean-embeds
 
 ### Racial
 
-- **Darkvision**
-    
-    You can see in darkness (shades of gray) up to 60 ft.
-    
-- **Menacing**
-    
-    You gain proficiency in the Intimidation skill.
-    
-- **Relentless Endurance**
-    
-    When you are reduced to 0 HP but not killed, you can drop to 1 HP instead once per long rest.
-    
-- **Savage Attacks**
-    
-    When you score a critical hit, roll one of the dice an additional time and add it to the extra damage.
-    
+- **Breath Weapon** 
+	When you take the Attack action on your turn, you can replace one of the attacks with an exhalation of destructive magical energy in a 15 ft. cone. Every creature in that area must make a Dexterity saving throw, the DC equal to 8 + your proficiency bonus + your Con modifier. On a failed save a creature takes 1d10 damage of the type associated with your Metallic Ancestry or half as much damage on successful save. The damage increases to 2d10 at 5th level, 3d10 at 11th level, and 4d10 at 17th level. You can use this ability a number of times equal to your proficiency bonus per long rest.
 
-### Background
 
-- **Rustic Hospitality**
-    
-    Since you come from the ranks of the common folk, you fit in among them with ease. You can find a place to hide, rest, or recuperate among other commoners, unless you have shown yourself to be a danger to them. They will shield you from the law or anyone else searching for you, though they will not risk their lives for you.
-    
+- **Draconic Resistance** 
+	Fire Resistance
+
+- **Metallic Breath Weapon** 
+	At 5th level, you gain a second breath weapon you can use in the place of a single attack when you take the Attack action. This breath is exhaled in a 15 ft. cone, with the DC equal to 8 + your proficiency bonus + your Con modifier. When you use this ability choose one of the following options:
+	- **Enervating Breath –** Each creature within the cone must succeed on Con saving throw or become incapacitated until the start of your next turn.
+	- **Repulsion Breath –** Each creature within the cone must succeed on a Str saving throw or be pushed 20ft away from you and knocked prone.
+	You can only use your Metallic Breath Weapon once per long rest.
+
 
 ## Proficiencies
 
 ---
 
-### Weapons
+### Weapons & armor
 
-- Martial Weapons, Simple Weapons
+- All weapons
+- All armor & shields
 
 ### Tools
 
-- Painter's Supplies
-- Vehicles (land)
+TO BE ADDED
 
-### Armor
-
-- Heavy Armor
-- Medium Armor
-- Light Armor
-- Shields
-
-[Languages](Languages%20f66dcbd214894bb8b0023ce3d42a27e0.csv)
+##
 
 ## Items
 
