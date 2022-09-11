@@ -131,12 +131,26 @@ TO BE ADDED
 ---
 
 ### Currency
-150 GP
+200 GP
 
 ### Equipment
 [[Chainmail]]
 [[Shield]]
+[[Longsword]]
+[[Backpack]]
+[[Wand]]
+[[Bedroll]]
+[[Clothes, fine]]
+[[Perfume, vial]]
+[[Rope, hempen (50 feet)]]
+[[Signet ring]]
 [[]]
+
+### Extra
+A tiny silver icon of a raven
+
+
+total cost: 132
 
 
 # Combat
