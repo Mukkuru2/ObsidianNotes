@@ -149,13 +149,11 @@ TO BE ADDED
 [[Torch, 5x]]
 [[Hammer]]
 [[Dragonchess Set]]
+[[Pouch]]
 
 
 ### Extra
 A tiny silver icon of a raven
-
-
-total cost: 134gp, 5cp
 
 
 # Combat
