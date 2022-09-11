@@ -5,26 +5,24 @@ cssclass: clean-embeds
 # The Gold Prince
 
 - Quick Links:
-[TO BE ADDED]
+[[TO BE ADDED]]
 
 # Basic Info
 ---
 
-**Full Name**: Berrk't
+| Full Name       | Aliases                | Background | Alignment      |
+| --------------- | ---------------------- | ---------- | -------------- |
+| The Gold Prince | Theus Goldius Princius | Noble      | Lawful neutral | 
 
-**Aliases**: Berrk't
+| **Class and Level**   | **Subclass**:   |
+| --------------------- | --------------- |
+| [[Fighter]] , Level 1 | Eldritch Knight |
 
-**Background**: Folk Hero
 
-**Alignment**: Neutral Good
 
-**Class and Level**: [Paladin](https://www.notion.so/Paladin-d2f392112d494a418a3c7bdf0b37fdcf) , Level 5
+[[Notes]]
 
-**Subclass**: 
-
-[Notes](Notes%209b5be1b1c27645249f79c7235f9e22be.md)
-
-[Description and Backstory](Description%20and%20Backstory%20eb3d5d3ec2e14c00bc17eff2085d9273.md)
+[[Description and Backstory]]
 
 # Basic Stats
 
@@ -34,6 +32,10 @@ cssclass: clean-embeds
 | PROF  |     |     |     |     |     |     |
 | SAVE  |     |     |     |     |     |     |
 | SCORE |     |     |     |     |     |     |
+| 
+|     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- |
+|     |     |     |     |     |     |
 
 ---
 
