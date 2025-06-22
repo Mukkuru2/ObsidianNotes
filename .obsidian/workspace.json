@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "becdeb3ce174c64b",
+    "type": "split",
+    "children": [
+      {
+        "id": "55e1fb54fa99dca3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e896e4a1ac0eec67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Wildemount/The Gold Prince/The Gold Prince.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "The Gold Prince"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "120fffc75cd82097",
+    "type": "split",
+    "children": [
+      {
+        "id": "15547740a72e979c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a1234941c0b0d53",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c208c026cd3eea82",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#item",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b93e6c6fd265e059",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8b703f5a0b4823fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "20c10dca04ab951b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7566754353b8f893",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "1a7250f08a8b661d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "d8e3244197a73539",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "eb010e3fbb9bfc4b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e896e4a1ac0eec67",
+  "lastOpenFiles": [
+    "D&D/Wildemount/The Gold Prince/Skills and Feats.md",
+    "D&D/Wildemount/The Gold Prince/The Gold Prince.md",
+    "D&D/Wildemount/The Gold Prince/Stats overview.md",
+    "D&D/Wildemount/The Gold Prince/Inventory/Inventory.md",
+    "D&D/Wildemount/The Gold Prince/Description and Backstory.md",
+    "D&D/Wildemount/The Gold Prince/gold-prince.png",
+    "D&D/Wildemount/The Gold Prince/Inventory/Items/Witch Hunter's Half Plate.md",
+    "D&D/Wildemount/The Gold Prince/Inventory/Items/Copper-Amber Amulet.md",
+    "D&D/Wildemount/The Gold Prince/Inventory/Items/Backpack.md",
+    "D&D/Wildemount/The Gold Prince/Inventory/Items/Badge of a Raven.md",
+    "D&D/Wildemount/The Gold Prince/Inventory/Items/Shield.md",
+    "D&D/Wildemount/The Gold Prince/Inventory/Items/Fine Clothes.md",
+    "D&D/Wildemount/The Gold Prince/Inventory/Items/Hammer.md",
+    "D&D/Wildemount/The Gold Prince/Inventory/Items/Signet Ring.md",
+    "D&D/Wildemount/The Gold Prince/Inventory/Items/Longsword.md",
+    "D&D/Wildemount/The Gold Prince/Inventory/Items/Earring of Messages.md",
+    "D&D/Wildemount/The Gold Prince/Inventory/Items/Money Pouch.md",
+    "D&D/Wildemount/The Gold Prince/Inventory/Items/Scroll Case.md",
+    "D&D/Wildemount/The Gold Prince/Inventory/Items/Parchment.md",
+    "D&D/Wildemount/The Gold Prince/Inventory/Items/Miscelaneous Pouch.md",
+    "Templates/Item.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "D&D/Wildemount/The Gold Prince/Inventory/Items/Rations.md",
+    "D&D/Wildemount/The Gold Prince/Inventory/Items/null.md",
+    "D&D/Wildemount/The Gold Prince/Inventory/Items/Candle.md",
+    "Hub.md",
+    "D&D/The Gold Prince/Inventory/Items",
+    "D&D/The Gold Prince/Inventory",
+    "D&D/The Gold Prince",
+    "Templates",
+    "D&D/Wildemount/The Gold Prince/Inventory/Items",
+    "D&D/Wildemount/The Gold Prince/Inventory"
+  ]
+}
