@@ -1,0 +1,5 @@
+
+https://breezewiki.com/amazing-cultivation-simulator/wiki/World
+
+- [Thunderclap Cave](https://breezewiki.com/amazing-cultivation-simulator/wiki/Thunderclap_Cave "Thunderclap Cave")
+	- After obtaining [Painting of the Four Symbols](https://breezewiki.com/amazing-cultivation-simulator/wiki/Painting_of_the_Four_Symbols "Painting of the Four Symbols"), adventure here with one of the 4 cultivators who helped obtain the painting while possessing >=600 [Favor](https://breezewiki.com/amazing-cultivation-simulator/wiki/Favor_\(Sect\) "Favor (Sect)") with [Blue Lotus Temple](https://breezewiki.com/amazing-cultivation-simulator/wiki/Blue_Lotus_Temple "Blue Lotus Temple"). Next, adventure here again with any cultivator who has the painting equipped while possessing >=600 [Favor](https://breezewiki.com/amazing-cultivation-simulator/wiki/Favor_\(Sect\) "Favor (Sect)") with [Blue Lotus Temple](https://breezewiki.com/amazing-cultivation-simulator/wiki/Blue_Lotus_Temple "Blue Lotus Temple") to unlock [Secret](https://breezewiki.com/amazing-cultivation-simulator/wiki/Secret "Secret"): Secret of the Thunderclap Cave
