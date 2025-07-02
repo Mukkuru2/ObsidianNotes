@@ -64,7 +64,6 @@
 ## Proficiencies
 
 --- start-multi-column: SkillProf
-
 ```column-settings  
 number of columns: 3  
 ```
@@ -73,20 +72,24 @@ number of columns: 3
 
 - All weapons, all armor, shields
 
---- column-end ---
 
+--- end-column ---
 
 
 ### Tools
 
 Strategy Games (Dragonchess)
 
---- column-end ---
+
+--- end-column ---
+
 
 ### Languages
 - Abyssal
 - Celestial
 - Draconic
 - Common
+
+
 
 --- end-multi-column
