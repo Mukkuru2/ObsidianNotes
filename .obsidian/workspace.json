@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "The Gold Prince"
             }
+          },
+          {
+            "id": "580ff1ba8638d157",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Wildemount/The Gold Prince/Subpages/Skills and Feats.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Skills and Feats"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,42 +183,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e896e4a1ac0eec67",
+  "active": "580ff1ba8638d157",
   "lastOpenFiles": [
-    "D&D/Wildemount/The Gold Prince/Stats overview.md",
-    "D&D/Wildemount/The Gold Prince/Skills and Feats.md",
-    "D&D/Wildemount/The Gold Prince/gold-prince.png",
-    "D&D/Wildemount/The Gold Prince/Description and Backstory.md",
-    "Notes/CultiSim.md",
     "D&D/Wildemount/The Gold Prince/The Gold Prince.md",
+    "D&D/Wildemount/The Gold Prince/Subpages/Skills and Feats.md",
+    "D&D/Wildemount/The Gold Prince/Subpages/Inventory/Inventory.md",
+    "D&D/Wildemount/The Gold Prince/Subpages",
+    "D&D/Wildemount/The Gold Prince/Subpages/Stats overview.md",
+    "D&D/Wildemount/The Gold Prince/Subpages/gold-prince.png",
+    "D&D/Wildemount/The Gold Prince/Subpages/Description and Backstory.md",
+    "Notes/CultiSim.md",
     "Notes",
     "CultiSim/Cultis",
     "CultiSim",
-    "D&D/Wildemount/The Gold Prince/Inventory/Inventory.md",
-    "D&D/Wildemount/The Gold Prince/Inventory/Items/Witch Hunter's Half Plate.md",
-    "D&D/Wildemount/The Gold Prince/Inventory/Items/Copper-Amber Amulet.md",
-    "D&D/Wildemount/The Gold Prince/Inventory/Items/Backpack.md",
-    "D&D/Wildemount/The Gold Prince/Inventory/Items/Badge of a Raven.md",
-    "D&D/Wildemount/The Gold Prince/Inventory/Items/Shield.md",
-    "D&D/Wildemount/The Gold Prince/Inventory/Items/Fine Clothes.md",
-    "D&D/Wildemount/The Gold Prince/Inventory/Items/Hammer.md",
-    "D&D/Wildemount/The Gold Prince/Inventory/Items/Signet Ring.md",
-    "D&D/Wildemount/The Gold Prince/Inventory/Items/Longsword.md",
-    "D&D/Wildemount/The Gold Prince/Inventory/Items/Earring of Messages.md",
-    "D&D/Wildemount/The Gold Prince/Inventory/Items/Money Pouch.md",
-    "D&D/Wildemount/The Gold Prince/Inventory/Items/Scroll Case.md",
-    "D&D/Wildemount/The Gold Prince/Inventory/Items/Parchment.md",
-    "D&D/Wildemount/The Gold Prince/Inventory/Items/Miscelaneous Pouch.md",
+    "D&D/Wildemount/The Gold Prince/Subpages/Inventory/Items/Witch Hunter's Half Plate.md",
+    "D&D/Wildemount/The Gold Prince/Subpages/Inventory/Items/Copper-Amber Amulet.md",
+    "D&D/Wildemount/The Gold Prince/Subpages/Inventory/Items/Backpack.md",
+    "D&D/Wildemount/The Gold Prince/Subpages/Inventory/Items/Badge of a Raven.md",
+    "D&D/Wildemount/The Gold Prince/Subpages/Inventory/Items/Shield.md",
+    "D&D/Wildemount/The Gold Prince/Subpages/Inventory/Items/Fine Clothes.md",
+    "D&D/Wildemount/The Gold Prince/Subpages/Inventory/Items/Hammer.md",
+    "D&D/Wildemount/The Gold Prince/Subpages/Inventory/Items/Signet Ring.md",
+    "D&D/Wildemount/The Gold Prince/Subpages/Inventory/Items/Longsword.md",
+    "D&D/Wildemount/The Gold Prince/Subpages/Inventory/Items/Earring of Messages.md",
+    "D&D/Wildemount/The Gold Prince/Subpages/Inventory/Items/Money Pouch.md",
+    "D&D/Wildemount/The Gold Prince/Subpages/Inventory/Items/Scroll Case.md",
+    "D&D/Wildemount/The Gold Prince/Subpages/Inventory/Items/Parchment.md",
+    "D&D/Wildemount/The Gold Prince/Subpages/Inventory/Items/Miscelaneous Pouch.md",
     "Templates/Item.md",
     "Untitled 1.md",
-    "D&D/Wildemount/The Gold Prince/Inventory/Items/Rations.md",
+    "D&D/Wildemount/The Gold Prince/Subpages/Inventory/Items/Rations.md",
     "D&D/Wildemount/The Gold Prince/Inventory/Items/null.md",
-    "D&D/Wildemount/The Gold Prince/Inventory/Items/Candle.md",
+    "D&D/Wildemount/The Gold Prince/Subpages/Inventory/Items/Candle.md",
     "D&D/The Gold Prince/Inventory/Items",
     "D&D/The Gold Prince/Inventory",
     "D&D/The Gold Prince",
     "Templates",
-    "D&D/Wildemount/The Gold Prince/Inventory/Items",
-    "D&D/Wildemount/The Gold Prince/Inventory"
+    "D&D/Wildemount/The Gold Prince/Subpages/Inventory/Items",
+    "D&D/Wildemount/The Gold Prince/Subpages/Inventory"
   ]
 }

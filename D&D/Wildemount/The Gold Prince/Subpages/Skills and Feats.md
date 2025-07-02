@@ -63,14 +63,30 @@
 
 ## Proficiencies
 
----
+--- start-multi-column: SkillProf
+
+```column-settings  
+number of columns: 3  
+```
 
 ### Weapons & Shields
 
 - All weapons, all armor, shields
 
+--- column-end ---
+
+
+
 ### Tools
 
 Strategy Games (Dragonchess)
 
-[Untitled](https://www.notion.so/f66dcbd214894bb8b0023ce3d42a27e0?pvs=21)
+--- column-end ---
+
+### Languages
+- Abyssal
+- Celestial
+- Draconic
+- Common
+
+--- end-multi-column
