@@ -43,29 +43,15 @@
 
 - **Lucky**
 	- You can reroll one d20 or force to reroll an attack roll against you (3/long rest).
-- **Infernal Constitution**
-  Fiendish blood runs strong in you, unlocking a resilience akin to that possessed by some fiends. You gain the following benefits:
-	- Increase your Constitution score by 1, up to a maximum of 20.
-	- You have resistance to cold damage and poison damage.
-	- You have advantage on saving throws against being poisoned.
+- **Elemental Adept: Ice**
+  When you gain this feat, choose one of the following damage types: acid, cold, fire, lightning, or thunder.  
+  Spells you cast ignore resistance to damage of the chosen type. In addition, when you roll damage for a spell you cast that deals damage of that type, you can treat any 1 on a damage die as a 2.  
+  You can select this feat multiple times. Each time you do so, you must choose a different damage type..
     
 
 ### Racial
 
-- **Breath Weapon.**
-	- When you take the Attack action on your turn, you can replace one of your attacks with an exhalation of magical energy in a 15-foot cone. Each creature in that area must make a Dexterity saving throw (DC = 8 + your Constitution modifier + your proficiency bonus). On a failed save, the creature takes 1d10 damage of the type associated with your Metallic Ancestry. On a successful save, it takes half as much damage. This damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
-    You can use your Breath Weapon a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
-- **Draconic Resistance.**
-    - You have resistance to fire damage
-    
-- **Forceful Presence**
-    - When you make a Intimidation or Persuasion check, you can do so with advantage once per long rest.
-    
-- **~~Metallic Breath Weapon.~~ (unlock at lv 5)**    
-    - At 5th level, you gain a second breath weapon. When you take the Attack action on your turn, you can replace one of your attacks with an exhalation in a 15-foot cone. The save DC for this breath is 8 + your Constitution modifier + your proficiency bonus. Whenever you use this trait, choose one:
-        - **Enervating Breath.** Each creature in the cone must succeed on a Constitution saving throw or become incapacitated until the start of your next turn.
-        - **Repulsion Breath.** Each creature in the cone must succeed on a Strength saving throw or be pushed 20 feet away from you and be knocked prone.
-        - Once you use your Metallic Breath Weapon, you can’t do so again until you finish a long rest.
+- 
 
 
 --- end-multi-column
