@@ -2,6 +2,7 @@
 name: Sniezynki (Snie)
 class: Warlock (The Undying)
 level: 6
+xp: 14000
 race: Tiefling
 background: Ice Demon
 alignment: True Neutral
@@ -28,13 +29,12 @@ spellcasting_ability: CHA
 
 --- start-multi-column: BaseStats  
 
-| **Full Name**  | `= this.name`     |  |  | 
+| **Full Name**  | `= this.name`     | *Level* |  | 
 | -------------- | ------------------- | ---| ---|
 | **Background** | `= this.background `             | **Proficiency Bonus** | `= 2 + floor((this.level - 1) / 4)` |
-| **Alignment**  | `= this.alignment`      | Hit Dice Total | 6 |
-| **Class**      | `= this.class`             |
-| **Subclass**   | [Eldritch Knight]() |
-| **Xp**         | 2262                |
+| **Alignment**  | `= this.alignment`      | Hit Dice Total | `= this.level` |
+| **Class**      | `= this.class`             | Hit Dice Current | `= this.hitdice` |
+| **Xp**         | `= this.xp`                |
 
 
 
