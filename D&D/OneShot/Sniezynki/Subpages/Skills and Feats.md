@@ -4,30 +4,23 @@
 ### Class
 
 - **Eldritch Invocations**
-	- **Agonizing Blast: Toll Dead**. 
+	- **Agonizing Blast: Toll Dead**
 	  Choose one of your known Warlock cantrips that deals damage. You can add your Charisma modifier to that spell’s damage rolls.
-	- **Pact of the Chain**. 
-	  You learn the [Find Familiar](https://www.dndbeyond.com/spells/2618877-find-familiar) spell and can cast it as a Magic action without expending a spell slot.
-	  When you cast the spell, you choose one of the normal forms for your familiar or one of the following special forms: [Imp](https://www.dndbeyond.com/monsters/4775825-imp), [Pseudodragon](https://www.dndbeyond.com/monsters/4775834-pseudodragon), [Quasit](https://www.dndbeyond.com/monsters/4775835-quasit), [Skeleton](https://www.dndbeyond.com/monsters/4775841-skeleton), [Slaad Tadpole](https://www.dndbeyond.com/monsters/4775842-slaad-tadpole), [Sphinx of Wonder](https://www.dndbeyond.com/monsters/4775843-sphinx-of-wonder), [Sprite](https://www.dndbeyond.com/monsters/4775845-sprite), or [Venomous Snake](https://www.dndbeyond.com/monsters/4775847-venomous-snake).
-	  Additionally, when you take the [Attack](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#AttackAction) action, you can forgo one of your own attacks to allow your familiar to make one attack of its own with its Reaction.
-	- **Pact of the Tome**.
-	  Stitching together strands of shadow, you conjure forth a book in your hand at the end of a Short or Long Rest. This _Book of Shadows_ (you determine its appearance) contains eldritch magic that only you can access, granting you the benefits below. The book disappears if you conjure another book with this feature or if you die.
+	- **Pact of the Blade**
+	  As a Bonus Action, you can conjure a pact weapon in your hand—a Simple or Martial Melee weapon of your choice with which you bond—or create a bond with a magic weapon you touch; you can’t bond with a magic weapon if someone else is attuned to it or another Warlock is bonded with it. Until the bond ends, you have proficiency with the weapon, and you can use it as a Spellcasting Focus.
+	  Whenever you attack with the bonded weapon, you can use your Charisma modifier for the attack and damage rolls instead of using Strength or Dexterity; and you can cause the weapon to deal Necrotic, Psychic, or Radiant damage or its normal damage type.
+	  Your bond with the weapon ends if you use this feature’s Bonus Action again, if the weapon is more than 5 feet away from you for 1 minute or more, or if you die. A conjured weapon disappears when the bond ends.
+	-  **Fiendish Vigor**
+	  You can cast [False Life](https://www.dndbeyond.com/spells/2618866-false-life) on yourself without expending a spell slot. When you cast the spell with this feature, you don’t roll the die for the [Temporary Hit Points](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#TemporaryHitPoints); you automatically get the highest number on the die.
+	- **Eldritch Smite**
+	  Once per turn when you hit a creature with your pact weapon, you can expend a Pact Magic spell slot to deal an extra 1d8 Force damage to the target, plus another 1d8 per level of the spell slot, and you can give the target the [Prone](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ProneCondition) condition if it is Huge or smaller.
+	- **Thirsting Blade**
+	  You gain the Extra Attack feature for your pact weapon only. With that feature, you can attack twice with the weapon instead of once when you take the [Attack](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#AttackAction) action on your turn.
 
-**_Cantrips and Rituals._** When the book appears, choose three cantrips, and choose two level 1 spells that have the Ritual tag. The spells can be from any class’s spell list, and they must be spells you don’t already have prepared. While the book is on your person, you have the chosen spells prepared, and they function as Warlock spells for you.
 
-**_Spellcasting Focus._** You can use the book as a Spellcasting Focus.
-    
-    
 
 ### Equipment
 
-- **Warding Sigils.**
-	- This armor has five charges. Each dawn, you may perform a ten minute ritual to regain charges equal to 1d4 + your wisdom modifier, up to a maximum of 5, as you prepare arcane sigils bolster your defenses against dark magic. These charges can be used in the following ways:
-    When forced to make a saving throw against a spell, use your reaction to gain advantage on the saving throw (1 charge).
-    When a spell attack targets you, use your reaction to impose disadvantage on the attack roll (1 charge)
-    Cast [[Dispel Magic]] , at 3rd level (2 charges).
-- **Dreadful Resolve.**
-	- If your hit points are reduced to fewer than half your Hit Point maximum, you gain immunity to the frightened condition.
 
 
 --- column-end ---
@@ -35,8 +28,9 @@
 
 ### Feats
 
-- **Inspiring Leader**
-	- At the end of a Short Rest or a Long Rest, you can give an inspiring performance: a speech, a song, or a dance. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you who witness the performance. The chosen creatures each gain Temporary Hit Points equal to 2d4 + your Proficiency Bonus.
+- **Lucky**
+	- You can reroll one d20 or force to reroll an attack roll against you (3/long rest).
+- Elem
     
 
 ### Racial
