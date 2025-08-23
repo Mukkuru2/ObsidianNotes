@@ -7,9 +7,9 @@ background: ???
 alignment: True Neutral
 STR: 8
 DEX: 10
-CON: 10
-INT: 16
-WIS: 14
+CON: 15
+INT: 10
+WIS: 16
 CHA: 18
 proficiencies:
   - Arcana
@@ -18,8 +18,8 @@ save_proficiencies:
   - WIS
   - CHA
 AC_base: 11
-HP_max: 31
-HP_current: 31
+HP_max: 43
+HP_current: 43
 Initiative_bonus: 0
 spellcasting_ability: CHA
 ---

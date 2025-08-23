@@ -43,7 +43,11 @@
 
 - **Lucky**
 	- You can reroll one d20 or force to reroll an attack roll against you (3/long rest).
-- Elem
+- **Infernal Constitution**
+  Fiendish blood runs strong in you, unlocking a resilience akin to that possessed by some fiends. You gain the following benefits:
+	- Increase your Constitution score by 1, up to a maximum of 20.
+	- You have resistance to cold damage and poison damage.
+	- You have advantage on saving throws against being poisoned.
     
 
 ### Racial
