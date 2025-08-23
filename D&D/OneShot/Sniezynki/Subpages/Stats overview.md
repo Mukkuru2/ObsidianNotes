@@ -22,19 +22,17 @@ save_proficiencies:
   - CHA
 AC_base: 11
 HP_max: 43
-HP_current: 43
-Initiative_bonus: 0
 spellcasting_ability: CHA
 ---
 
 --- start-multi-column: BaseStats  
 
-| **Full Name**  | `= this.name`     | *Level* |  | 
+| **Full Name**  | `= this.name`     | **Level** | `= this.level` | 
 | -------------- | ------------------- | ---| ---|
 | **Background** | `= this.background `             | **Proficiency Bonus** | `= 2 + floor((this.level - 1) / 4)` |
-| **Alignment**  | `= this.alignment`      | Hit Dice Total | `= this.level` |
-| **Class**      | `= this.class`             | Hit Dice Current | `= this.hitdice` |
-| **Xp**         | `= this.xp`                |
+| **Alignment**  | `= this.alignment`      | HP | `= [[Volatile Stats]].hpcurrent` / `=this.HP_max` |
+| **Class**      | `= this.class`             | Hit Dice | `= [[Volatile Stats]].hitdice` / `= this.level` |
+| **Xp**         | `= this.xp`                | 
 
 
 
