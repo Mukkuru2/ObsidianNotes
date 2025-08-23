@@ -34,9 +34,19 @@
               "icon": "lucide-file",
               "title": "Sniezynki - Snie"
             }
+          },
+          {
+            "id": "692742dfa7affeca",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,8 +194,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "66b559e435095d81",
+  "active": "692742dfa7affeca",
   "lastOpenFiles": [
+    "D&D/OneShot/Sniezynki/Sniezynki - Snie.md",
     "D&D/OneShot/Sniezynki/Subpages/Stats overview.md",
     "D&D/OneShot/Sniezynki/Subpages/Volatile Stats.md",
     "D&D/OneShot/Sniezynki/Subpages/Sniezynka.webp",
@@ -193,7 +204,6 @@
     "D&D/OneShot/Sniezynki/Subpages/Skills and Feats.md",
     "D&D/OneShot/Sniezynki/Subpages/Description and Backstory.md",
     "D&D/OneShot/Sniezynki/Subpages/Inventory/Inventory.md",
-    "D&D/OneShot/Sniezynki/Sniezynki - Snie.md",
     "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Backpack.md",
     "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Money Pouch.md",
     "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Scholar's Pack.md",
