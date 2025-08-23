@@ -3,14 +3,14 @@ name: Sniezynki (Snie)
 class: Warlock (The Undying)
 level: 6
 race: Tiefling
-background: 
-alignment: Lawful Neutral
-STR: 18
-DEX: 10
-CON: 16
+background: ???
+alignment: True Neutral
+STR: 8
+DEX: 
+CON: 
 INT: 16
-WIS: 14
-CHA: 14
+WIS: 
+CHA: 16
 proficiencies:
   - Athletics
   - Arcana
@@ -19,8 +19,8 @@ proficiencies:
   - Performance
   - Pursuasion
 save_proficiencies:
-  - STR
-  - CON
+  - WIS
+  - CHA
 AC_base: 16
 HP_max: 37
 HP_current: 37
