@@ -1,4 +1,4 @@
 ---
-hpcurrent: 12
+hpcurrent: 43
 hitdice: 6
 ---
