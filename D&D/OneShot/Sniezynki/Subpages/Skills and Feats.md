@@ -17,6 +17,9 @@
 	- **Thirsting Blade**
 		- You gain the Extra Attack feature for your pact weapon only. With that feature, you can attack twice with the weapon instead of once when you take the [Attack](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#AttackAction) action on your turn.
 
+- **Level 2: Magical Cunning**
+	- You can perform an esoteric rite for 1 minute. At the end of it, you regain expended Pact Magic spell slots but no more than a number equal to half your maximum (round up). Once you use this feature, you can’t do so again until you finish a Long Rest.
+
 - **Form of Dread**
 	- At 1st level, you manifest an aspect of your patron’s dreadful power. As a bonus action, you transform for 1 minute. You gain the following benefits while transformed:
 		- You gain temporary hit points equal to 1d10 + your warlock level.
@@ -29,8 +32,6 @@
 	- At 6th level, your patron’s powers have a profound effect on your body and magic. You don’t need to eat, drink, or breathe.
 	  In addition, once during each of your turns, when you hit a creature with an attack and roll damage against the creature, you can replace the damage type with necrotic damage. While you are using your Form of Dread, you can roll one additional damage die when determining the necrotic damage the target takes.
 
-
-### Equipment
 
 
 

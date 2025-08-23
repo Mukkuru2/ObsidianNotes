@@ -17,4 +17,4 @@ Spells
 Tiefling: Poison Spray, Ray of Sickness, Hold Person, Thaumaturgy
 False Life
 
-
+Cantrips, 3: Chill touch, Mage hand, 
