@@ -8,7 +8,7 @@ background: Ice Demon
 alignment: True Neutral
 STR: 8
 DEX: 10
-CON: 15
+CON: 14
 INT: 10
 WIS: 16
 CHA: 18
