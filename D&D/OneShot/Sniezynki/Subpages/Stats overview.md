@@ -6,11 +6,11 @@ race: Tiefling
 background: ???
 alignment: True Neutral
 STR: 8
-DEX: 
-CON: 
+DEX: 10
+CON: 10
 INT: 16
-WIS: 
-CHA: 16
+WIS: 14
+CHA: 18
 proficiencies:
   - Athletics
   - Arcana

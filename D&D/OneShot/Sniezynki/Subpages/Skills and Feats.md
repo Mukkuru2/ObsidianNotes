@@ -3,21 +3,11 @@
 
 ### Class
 
-- **Fighting Style: Dueling**
-	- When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
+- **Eldritch Invocations**
+	- **Agonizing Blast**. When you cast _[eldritch blast](https://roll20.net/compendium/dnd5e/Spells:Eldritch%20Blast?expansion=34047#content)_, add your Charisma [modifier](https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_1) to the damage it deals on a hit.
+	- **Pact of the Chain**. Your familiar is more cunning than a typical familiar. Its default form can be a reflection of your patron, with [imps](https://roll20.net/compendium/dnd5e/Monsters:Imp?expansion=34047#content) and [quasits](https://roll20.net/compendium/dnd5e/Monsters:Quasit?expansion=34047#content) tied to the Fiend.
+	- 
     
-- **Second Wind**
-	- You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level.
-	Once you use this feature, you must finish a short or long rest before you can use it again.
-    
-- **Action Surge**
-	- Starting at 2nd level, you can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action.
-	Once you use this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn.
-    
-- **Weapon Bond**
-	- At 3rd level, you learn a ritual that creates a magical bond between yourself and one weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. The weapon must be within your reach throughout the ritual, at the conclusion of which you touch the weapon and forge the bond.
-    Once you have bonded a weapon to yourself, you can't be disarmed of that weapon unless you are incapacitated. If it is on the same plane of existence, you can summon that weapon as a bonus action on your turn, causing it to teleport instantly to your hand.
-    You can have up to two bonded weapons, but can summon only one at a time with your bonus action. If you attempt to bond with a third weapon, you must break the bond with one of the other two.
     
 
 ### Equipment
