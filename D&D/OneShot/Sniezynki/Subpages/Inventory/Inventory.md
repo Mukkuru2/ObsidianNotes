@@ -1,14 +1,8 @@
 ---
 p_treasury:
-  cp: 23
-  sp: 143
-  gp: 221
-  pp: 6
-
-team_treasury:
   cp: 0
-  sp: 8
-  gp: 493
+  sp: 0
+  gp: 15
   pp: 0
 
 

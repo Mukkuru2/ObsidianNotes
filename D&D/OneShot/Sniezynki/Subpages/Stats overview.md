@@ -12,20 +12,16 @@ INT: 16
 WIS: 14
 CHA: 18
 proficiencies:
-  - Athletics
   - Arcana
-  - History
-  - Insight
-  - Performance
-  - Pursuasion
+  - Deception
 save_proficiencies:
   - WIS
   - CHA
-AC_base: 16
-HP_max: 37
-HP_current: 37
+AC_base: 11
+HP_max: 31
+HP_current: 31
 Initiative_bonus: 0
-spellcasting_ability: INT
+spellcasting_ability: CHA
 ---
 
 --- start-multi-column: BaseStats  
