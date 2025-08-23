@@ -57,9 +57,9 @@
 	  Starting at 3rd level and again at 5th level, you gain the ability to cast a higher-level Spell with this trait, as shown on the table. Once you cast the Spell with this trait, you can’t cast that Spell with it again until you finish a Long Rest*; however, you can cast the Spell using any Spell Slots you have of the appropriate level.
 	  Intelligence, Wisdom, or Charisma is your spellcasting ability for the Spells you cast with this trait (choose the ability when you select the lineage).
 
-  |   |   |   |   |
-  |---|---|---|---|
-  |Chthonic|You have Resistance to Necrotic Damage. You also know the [Chill Touch](https://dnd5e.wikidot.com/spell:chill-touch\|) cantrip.|[False Life](https://dnd5e.wikidot.com/spell:false-life\|)|[Ray of Enfeeblement](https://dnd5e.wikidot.com/spell:ray-of-enfeeblement\|)|
+|   |   |   |   |
+|---|---|---|---|
+|Abyssal|You have Resistance to Poison Damage. You also know the [Poison Spray](https://dnd5e.wikidot.com/spell:poison-spray\|) cantrip.|[Ray of Sickness](http://dnd5e.wikidot.com/spell:ray-of-sickness\|)|[Hold Person](https://dnd5e.wikidot.com/spell:hold-person\|)|
 
 - **Otherworldly Presence** 
 	- You know the [Thaumaturgy](https://dnd5e.wikidot.com/spell:thaumaturgy|) cantrip. When you cast it with this trait, the Spell uses the same spellcasting ability you use for your Fiendish Legacy trait
