@@ -26,8 +26,7 @@ dv.header(3, "💰 Treasury");
 dv.table(
   ["Source", "CP", "SP", "GP", "PP", "Total (gp)"],
   [
-    ["You", self.cp ?? 0, self.sp ?? 0, self.gp ?? 0, self.pp ?? 0, `${calcTreasury(self)} gp`],
-    ["Team", team.cp ?? 0, team.sp ?? 0, team.gp ?? 0, team.pp ?? 0, `${calcTreasury(team)} gp`]
+    ["You", self.cp ?? 0, self.sp ?? 0, self.gp ?? 0, self.pp ?? 0, `${calcTreasury(self)} gp`]
   ]
 );
 
