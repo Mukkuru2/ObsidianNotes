@@ -4,9 +4,18 @@
 ### Class
 
 - **Eldritch Invocations**
-	- **Agonizing Blast**. When you cast _[eldritch blast](https://roll20.net/compendium/dnd5e/Spells:Eldritch%20Blast?expansion=34047#content)_, add your Charisma [modifier](https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_1) to the damage it deals on a hit.
-	- **Pact of the Chain**. Your familiar is more cunning than a typical familiar. Its default form can be a reflection of your patron, with [imps](https://roll20.net/compendium/dnd5e/Monsters:Imp?expansion=34047#content) and [quasits](https://roll20.net/compendium/dnd5e/Monsters:Quasit?expansion=34047#content) tied to the Fiend.
-	- 
+	- **Agonizing Blast: Toll Dead**. 
+	  Choose one of your known Warlock cantrips that deals damage. You can add your Charisma modifier to that spell’s damage rolls.
+	- **Pact of the Chain**. 
+	  You learn the [Find Familiar](https://www.dndbeyond.com/spells/2618877-find-familiar) spell and can cast it as a Magic action without expending a spell slot.
+	  When you cast the spell, you choose one of the normal forms for your familiar or one of the following special forms: [Imp](https://www.dndbeyond.com/monsters/4775825-imp), [Pseudodragon](https://www.dndbeyond.com/monsters/4775834-pseudodragon), [Quasit](https://www.dndbeyond.com/monsters/4775835-quasit), [Skeleton](https://www.dndbeyond.com/monsters/4775841-skeleton), [Slaad Tadpole](https://www.dndbeyond.com/monsters/4775842-slaad-tadpole), [Sphinx of Wonder](https://www.dndbeyond.com/monsters/4775843-sphinx-of-wonder), [Sprite](https://www.dndbeyond.com/monsters/4775845-sprite), or [Venomous Snake](https://www.dndbeyond.com/monsters/4775847-venomous-snake).
+	  Additionally, when you take the [Attack](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#AttackAction) action, you can forgo one of your own attacks to allow your familiar to make one attack of its own with its Reaction.
+	- **Pact of the Tome**.
+	  Stitching together strands of shadow, you conjure forth a book in your hand at the end of a Short or Long Rest. This _Book of Shadows_ (you determine its appearance) contains eldritch magic that only you can access, granting you the benefits below. The book disappears if you conjure another book with this feature or if you die.
+
+**_Cantrips and Rituals._** When the book appears, choose three cantrips, and choose two level 1 spells that have the Ritual tag. The spells can be from any class’s spell list, and they must be spells you don’t already have prepared. While the book is on your person, you have the chosen spells prepared, and they function as Warlock spells for you.
+
+**_Spellcasting Focus._** You can use the book as a Spellcasting Focus.
     
     
 
