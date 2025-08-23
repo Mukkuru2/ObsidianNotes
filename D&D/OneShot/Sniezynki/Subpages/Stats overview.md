@@ -33,7 +33,7 @@ spellcasting_ability: INT
 | **Full Name**  | `= this.name`     |  |  | 
 | -------------- | ------------------- | ---| ---|
 | **Background** | `= this.background `             | **Proficiency Bonus** | `= 2 + floor((this.level - 1) / 4)` |
-| **Alignment**  | `= this.alignment`      | Hit Dice Total | 
+| **Alignment**  | `= this.alignment`      | Hit Dice Total | 6 |
 | **Class**      | `= this.class`             |
 | **Subclass**   | [Eldritch Knight]() |
 | **Xp**         | 2262                |

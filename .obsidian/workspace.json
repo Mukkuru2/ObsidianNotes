@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Badge of a Raven.md",
+                "file": "D&D/OneShot/Sniezynki/Sniezynki - Snie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Badge of a Raven"
+              "title": "Sniezynki - Snie"
+            }
+          },
+          {
+            "id": "66b559e435095d81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/OneShot/Sniezynki/Subpages/Stats overview.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Stats overview"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,37 +184,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2042ac8037459e43",
+  "active": "66b559e435095d81",
   "lastOpenFiles": [
+    "D&D/OneShot/Sniezynki/Sniezynki - Snie.md",
+    "D&D/OneShot/Sniezynki/Subpages/Stats overview.md",
+    "D&D/OneShot/Sniezynki/Subpages/Skills and Feats.md",
+    "D&D/OneShot/Sniezynki/Subpages/Sniezynka.webp",
+    "D&D/OneShot/Sniezynki/Subpages/Logbook.md",
+    "D&D/OneShot/Sniezynki/Subpages/Description and Backstory.md",
+    "Templates/Item.md",
     "Untitled.md",
+    "D&D/Wildemount/The Gold Prince/Inventory/Items/Yes.md",
+    "D&D/Wildemount/The Gold Prince/Inventory/Items",
+    "D&D/Wildemount/The Gold Prince/Inventory",
+    "D&D/OneShot/Sniezynki/Subpages/Inventory/Inventory.md",
+    "D&D/Wildemount/The Gold Prince/Inventory/Items/TestingItem.md",
+    "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Witch Hunter's Half Plate.md",
     "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Badge of a Raven.md",
     "Untitled 1.md",
     "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Backpack.md",
-    "D&D/OneShot/Sniezynki/Subpages/Skills and Feats.md",
-    "D&D/OneShot/Sniezynki/Subpages/Logbook.md",
-    "D&D/OneShot/Sniezynki/Subpages/Description and Backstory.md",
-    "D&D/OneShot/Sniezynki/Subpages/Stats overview.md",
-    "D&D/OneShot/Sniezynki/Sniezynki - Snie.md",
     "D&D/Wildemount/The Gold Prince/The Gold Prince.md",
     "D&D/Wildemount/The Gold Prince/Subpages/Stats overview.md",
-    "D&D/OneShot/Sniezynki/Subpages/Sniezynka.webp",
     "D&D/Wildemount/World.md",
     "D&D/Wildemount/The Gold Prince/Subpages/Skills and Feats.md",
     "D&D/Wildemount/The Gold Prince/Subpages/gold-prince.png",
     "D&D/Wildemount/The Gold Prince/Subpages/Description and Backstory.md",
     "D&D/Wildemount/The Gold Prince/Subpages/Inventory/Inventory.md",
     "D&D/OneShot/Sniezynki/Subpages/gold-prince.png",
-    "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Witch Hunter's Half Plate.md",
     "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Steel Mirror.md",
     "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Soap.md",
     "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Signet Ring.md",
     "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Sealing Wax.md",
     "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Shield.md",
-    "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Scroll Case.md",
-    "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Rations.md",
-    "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Perfume Vial.md",
-    "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Parchment.md",
-    "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Money Pouch.md",
     "D&D/OneShot/Sniezynki/Subpages/Inventory/Items",
     "D&D/OneShot/Sniezynki/Subpages/Inventory",
     "D&D/OneShot/Sniezynki/Wealth Distribution.csv",
@@ -207,8 +223,6 @@
     "D&D/OneShot/Sniezynki/Standard Weapons.csv",
     "D&D/OneShot/Sniezynki/Spell Slots.csv",
     "D&D/OneShot/Sniezynki/Spell List.csv",
-    "D&D/OneShot/Sniezynki/Resource List.csv",
-    "D&D/OneShot/Sniezynki/Modifiers.csv",
-    "D&D/OneShot/Sniezynki/Languages.csv"
+    "D&D/OneShot/Sniezynki/Resource List.csv"
   ]
 }
