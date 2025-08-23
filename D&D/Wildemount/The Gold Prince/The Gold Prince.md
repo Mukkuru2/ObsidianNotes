@@ -1,10 +1,11 @@
-![[gold-prince.png | 200x200]]
+![[D&D/Wildemount/The Gold Prince/Subpages/gold-prince.png| 200x200]]
 
 > [!Stats Overview]-
-> ![[Stats overview]]
+> ![[D&D/Wildemount/The Gold Prince/Subpages/Stats overview]]
 
 > [!Skills and Feats]-
-> ![[Skills and Feats]]
+> ![[D&D/Wildemount/The Gold Prince/Subpages/Skills and Feats]]
 
 > [!inventory]-
-> ![[Inventory]]
+> ![[D&D/Wildemount/The Gold Prince/Subpages/Inventory/Inventory]]
+

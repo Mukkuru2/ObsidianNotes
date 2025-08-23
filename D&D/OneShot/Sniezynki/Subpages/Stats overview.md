@@ -1,9 +1,9 @@
 ---
-name: The Golden Prince (Goldie)
-class: Fighter (Eldritch Knight)
-level: 4
-race: Dragonborn
-background: Prince
+name: Sniezynki (Snie)
+class: Warlock (The Undying)
+level: 6
+race: Tiefling
+background: 
 alignment: Lawful Neutral
 STR: 18
 DEX: 10
