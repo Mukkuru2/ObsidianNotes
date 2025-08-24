@@ -78,7 +78,7 @@ number of columns: 3
 
 ### Weapons & Shields
 
-- All weapons, all armor, shields
+- Simple weapons, Light armor
 
 
 --- end-column ---

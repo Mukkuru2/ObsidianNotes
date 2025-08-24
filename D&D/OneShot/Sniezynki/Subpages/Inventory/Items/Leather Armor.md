@@ -1,8 +1,8 @@
 ---
 name: Leather Armor
 quantity: 1
-equipped: false
-stored_in: Equipped
+equipped: true
+stored_in: Body
 weight: 0
 worth: 0
 ---
