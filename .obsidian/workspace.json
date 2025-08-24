@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/OneShot/Sniezynki/Sniezynki - Snie.md",
+                "file": "D&D/OneShot/Sniezynki/Subpages/Inventory/Inventory.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Sniezynki - Snie"
+              "title": "Inventory"
             }
           },
           {
@@ -185,24 +185,24 @@
   },
   "active": "6c71dafa90620eb8",
   "lastOpenFiles": [
-    "D&D/OneShot/Sniezynki/Subpages/Volatile Stats.md",
-    "D&D/OneShot/Sniezynki/Subpages/Sniezynka.webp",
+    "D&D/OneShot/Sniezynki/Subpages/Description and Backstory.md",
+    "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Oil.md",
+    "D&D/OneShot/Sniezynki/Subpages/Inventory/Inventory.md",
+    "D&D/OneShot/Sniezynki/Subpages/Logbook.md",
     "D&D/OneShot/Sniezynki/Subpages/Skills and Feats.md",
     "D&D/OneShot/Sniezynki/Subpages/Stats overview.md",
-    "D&D/OneShot/Sniezynki/Subpages/Description and Backstory.md",
-    "D&D/OneShot/Sniezynki/Subpages/Logbook.md",
     "D&D/OneShot/Sniezynki/Sniezynki - Snie.md",
+    "D&D/OneShot/Sniezynki/Subpages/Volatile Stats.md",
+    "D&D/OneShot/Sniezynki/Subpages/Sniezynka.webp",
     "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/test.md",
     "Templates/Item.md",
     "Untitled.md",
     "Hub.md",
     "Untitled 1.base",
     "Untitled.base",
-    "D&D/OneShot/Sniezynki/Subpages/Inventory/Inventory.md",
     "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Tinderbox.md",
     "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Sickle.md",
     "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Parchment.md",
-    "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Oil.md",
     "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Money Pouch.md",
     "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Miscelaneous Pouch.md",
     "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Leather Armor.md",
