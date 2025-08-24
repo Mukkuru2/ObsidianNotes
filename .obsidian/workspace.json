@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/OneShot/Sniezynki/NPCs/Jackie Averra.md",
-                "mode": "source",
-                "source": false
+                "file": "D&D/OneShot/Sniezynki/Subpages/Stats overview.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Jackie Averra"
+              "title": "Stats overview"
             }
           },
           {
@@ -197,13 +197,16 @@
   },
   "active": "2042ac8037459e43",
   "lastOpenFiles": [
+    "D&D/OneShot/Sniezynki/Subpages/Volatile Stats.md",
     "D&D/Wildemount/NPCs/Characters.md",
-    "D&D/OneShot/Sniezynki/NPCs",
+    "D&D/Wildemount/World.md",
+    "D&D/OneShot/Sniezynki/Places/Library.md",
+    "D&D/OneShot/Sniezynki/Places",
     "D&D/OneShot/Sniezynki/NPCs/Jackie Averra.md",
+    "D&D/OneShot/Sniezynki/Sniezynki - Snie.md",
+    "D&D/OneShot/Sniezynki/NPCs",
     "D&D/OneShot/Sniezynki/Subpages/Stats overview.md",
     "D&D/OneShot/Sniezynki/Subpages/Logbook.md",
-    "D&D/OneShot/Sniezynki/Sniezynki - Snie.md",
-    "D&D/OneShot/Sniezynki/Subpages/Volatile Stats.md",
     "D&D/OneShot/Sniezynki/Subpages/Sniezynka.webp",
     "D&D/OneShot/Sniezynki/Subpages/Skills and Feats.md",
     "D&D/OneShot/Sniezynki/Subpages/Description and Backstory.md",
@@ -225,8 +228,6 @@
     "D&D/Wildemount/The Gold Prince/Inventory/Items/Yes.md",
     "D&D/Wildemount/The Gold Prince/Inventory/Items",
     "D&D/Wildemount/The Gold Prince/Inventory",
-    "D&D/Wildemount/The Gold Prince/Inventory/Items/TestingItem.md",
-    "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Witch Hunter's Half Plate.md",
     "D&D/Wildemount/The Gold Prince/Subpages/gold-prince.png",
     "D&D/OneShot/Sniezynki/Subpages/gold-prince.png",
     "D&D/OneShot/Sniezynki/Subpages/Inventory/Items",
@@ -234,7 +235,6 @@
     "D&D/OneShot/Sniezynki/Wealth Distribution.csv",
     "D&D/OneShot/Sniezynki/Subpages",
     "D&D/OneShot/Sniezynki/Standard Weapons.csv",
-    "D&D/OneShot/Sniezynki/Spell Slots.csv",
-    "D&D/OneShot/Sniezynki/Spell List.csv"
+    "D&D/OneShot/Sniezynki/Spell Slots.csv"
   ]
 }
