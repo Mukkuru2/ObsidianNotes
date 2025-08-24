@@ -32,8 +32,9 @@ async function getVal(f) {
   const v = await metaedit.getPropertyValue(f, file);
   return v === null || v === undefined || v === "" ? 0 : Number(v);
 }
+
 async function setVal(f, v) {
-  await metaedit.update(f, String(v), file);
+  await metaedit.update(f, v, file);
   await render();
 }
 
@@ -70,9 +71,25 @@ function makeCounter(field, label, maxField) {
 async function render() {
   root.innerHTML = "";
 
-  // explicit mapping: hpcurrent → hpmax
-  const row = makeCounter("hpcurrent", "Hit Points", "hpmax");
+	/*const counters = [ 
+	["hp", "Hit Points"], 
+	["temphp", "Temp HP"], 
+	["hitdice", "Hit Dice"], 
+	["dreadused", "Dread Used"], 
+	["spellslots_used", "Spell Slots Used"], 
+	["magicalcunning", "Magical Cunning"], 
+	["lucky", "Lucky"], 
+	["raysickness", "Ray Sickness"], 
+	["holdperson", "Hold Person"] ];
+
+  for (const [field, label] of counters) { 
+	  const row = makeCounter(field, label, field + "max", this.container); 
+	  await row.refresh(); 
+  }*/
+  const row = makeCounter("hp", "Hit Points", "hpmax");
   await row.refresh();
+  const row2 = makeCounter("lucky", "Hit Points", "luckymax");
+  await row2.refresh();
 }
 
 render();

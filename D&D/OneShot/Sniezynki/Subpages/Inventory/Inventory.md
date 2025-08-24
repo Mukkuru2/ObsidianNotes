@@ -2,7 +2,7 @@
 p_treasury:
   cp: 0
   sp: 0
-  gp: 15
+  gp: 115
   pp: 0
 
 
