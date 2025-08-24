@@ -1,16 +1,16 @@
 ---
 hp: 43
 hpmax: 43
-temphp: 11
-hitdice: 3
+temphp: 0
+hitdice: 6
 hitdicemax: 6
 dreadused: 3
 dreadusedmax: 3
-spellslotsused: 0
+spellslotsused: 2
 spellslotsusedmax: 2
 magicalcunning: 0
 magicalcunningmax: 1
-lucky: 2
+lucky: 3
 luckymax: 3
 raysickness: 1
 raysicknessmax: 1
@@ -19,35 +19,20 @@ holdpersonmax: 1
 
 ---
 
-
-
 ```dataviewjs
 const metaedit = app.plugins.plugins["metaedit"]?.api;
 if (!metaedit) { dv.paragraph("❌ MetaEdit not loaded"); return; }
 
-const file = app.workspace.getActiveFile();
+// specify the original file (not the currently open file)
+const file = app.vault.getAbstractFileByPath("D&D/OneShot/Sniezynki/Subpages/Volatile Stats.md"); 
+if (!file) { dv.paragraph("❌ File not found"); return; }
+
 const root = this.container;
 
-async function getVal(f) {
-  const v = await metaedit.getPropertyValue(f, file);
-  return v === null || v === undefined ? 0 : Number(v);
-}
-
-async function setVal(f, v) {
-  await metaedit.update(f, v, file);
-  // DO NOT call render or updateValues here
-  rows.find(r => r.field === f).valueEl.textContent = await displayVal(f, r.maxField);
-}
-
-async function displayVal(field, maxField) {
-  const cur = await getVal(field);
-  const max = maxField ? await getVal(maxField) : null;
-  return `${cur}${max !== null ? " / " + max : ""}`;
-}
-
+// Counters
 const counters = [
   { field: "hp", label: "Hit Points", max: "hpmax" },
-  { field: "temphp", label: "Temp HP", max: "temphpmax" },
+  { field: "temphp", label: "Temp HP" },
   { field: "hitdice", label: "Hit Dice", max: "hitdicemax" },
   { field: "dreadused", label: "Dread Used", max: "dreadusedmax" },
   { field: "spellslotsused", label: "Spell Slots Used", max: "spellslotsused_max" },
@@ -57,10 +42,16 @@ const counters = [
   { field: "holdperson", label: "Hold Person", max: "holdpersonmax" }
 ];
 
-const rows = [];
+// Helper
+async function getVal(f) {
+  const v = await metaedit.getPropertyValue(f, file);
+  return v == null ? 0 : Number(v);
+}
 
+// Counter row
 function makeCounter(cfg, table) {
   const row = table.insertRow();
+
   row.insertCell().textContent = cfg.label + ":";
   const valueCell = row.insertCell();
   const valueEl = valueCell.appendChild(document.createElement("span"));
@@ -71,34 +62,36 @@ function makeCounter(cfg, table) {
   const plus = btnCell.appendChild(document.createElement("button"));
   plus.textContent = "➕";
 
+  const updateDisplay = async () => {
+    const cur = await getVal(cfg.field);
+    const max = cfg.max ? await getVal(cfg.max) : null;
+    valueEl.textContent = `${cur}${max !== null ? " / " + max : ""}`;
+  };
+
   plus.onclick = async () => {
     let cur = await getVal(cfg.field);
     const max = cfg.max ? await getVal(cfg.max) : null;
     if (max !== null && cur >= max) return;
-    await setVal(cfg.field, cur + 1);
+    await metaedit.update(cfg.field, cur + 1, file);
+    await updateDisplay();
   };
 
   minus.onclick = async () => {
     let cur = await getVal(cfg.field);
     if (cur <= 0) return;
-    await setVal(cfg.field, cur - 1);
+    await metaedit.update(cfg.field, cur - 1, file);
+    await updateDisplay();
   };
 
-  return { field: cfg.field, maxField: cfg.max, valueEl };
+  updateDisplay();
 }
 
-async function init() {
-  const table = root.createEl("table");
-  table.classList.add("stat-table");
+// Initialize table
+const table = root.createEl("table");
+table.classList.add("stat-table");
 
-  for (const cfg of counters) {
-    const rowObj = makeCounter(cfg, table);
-    rows.push(rowObj);
-    // initialize display
-    rowObj.valueEl.textContent = await displayVal(cfg.field, cfg.max);
-  }
+for (const cfg of counters) {
+  makeCounter(cfg, table);
 }
-
-init();
 
 ```

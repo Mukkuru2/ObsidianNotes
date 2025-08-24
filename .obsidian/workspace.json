@@ -6,7 +6,6 @@
       {
         "id": "ad5b16ecce092874",
         "type": "tabs",
-        "dimension": 67.38578680203045,
         "children": [
           {
             "id": "6c71dafa90620eb8",
@@ -14,33 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/OneShot/Sniezynki/Subpages/Untitled.md",
-                "mode": "source",
+                "file": "D&D/OneShot/Sniezynki/Subpages/Volatile Stats.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          }
-        ]
-      },
-      {
-        "id": "4569dfb9ae7dcb8e",
-        "type": "tabs",
-        "dimension": 32.61421319796954,
-        "children": [
-          {
-            "id": "66b559e435095d81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/OneShot/Sniezynki/Sniezynki - Snie.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sniezynki - Snie"
+              "title": "Volatile Stats"
             }
           }
         ]
@@ -193,17 +171,16 @@
   },
   "active": "6c71dafa90620eb8",
   "lastOpenFiles": [
-    "D&D/OneShot/Sniezynki/Places/Veluthil Forest (Savalier).md",
-    "D&D/OneShot/Sniezynki/Subpages/Untitled.md",
-    "D&D/OneShot/Sniezynki/Subpages/Inventory/Inventory.md",
     "D&D/OneShot/Sniezynki/Subpages/Stats overview.md",
-    "D&D/OneShot/Sniezynki/Subpages/Skills and Feats.md",
-    "D&D/OneShot/Sniezynki/Sniezynki - Snie.md",
-    "D&D/OneShot/Sniezynki/Subpages/Description and Backstory.md",
-    "D&D/OneShot/Sniezynki/Subpages/Logbook.md",
     "D&D/OneShot/Sniezynki/Subpages/Volatile Stats.md",
-    "D&D/OneShot/Sniezynki/NPCs/Witch-hag from the hut.md",
+    "D&D/OneShot/Sniezynki/Sniezynki - Snie.md",
     "D&D/OneShot/Sniezynki/Subpages/Sniezynka.webp",
+    "D&D/OneShot/Sniezynki/Subpages/Logbook.md",
+    "D&D/OneShot/Sniezynki/Places/Veluthil Forest (Savalier).md",
+    "D&D/OneShot/Sniezynki/Subpages/Inventory/Inventory.md",
+    "D&D/OneShot/Sniezynki/Subpages/Skills and Feats.md",
+    "D&D/OneShot/Sniezynki/Subpages/Description and Backstory.md",
+    "D&D/OneShot/Sniezynki/NPCs/Witch-hag from the hut.md",
     "D&D/OneShot/Sniezynki/Places/Moonlit Spring.md",
     "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Lamp.md",
     "D&D/OneShot/Sniezynki/Places/Dewlight village.md",
@@ -221,7 +198,6 @@
     "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Sickle.md",
     "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Parchment.md",
     "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Money Pouch.md",
-    "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Miscelaneous Pouch.md",
     "D&D/OneShot/Sniezynki/Places",
     "D&D/OneShot/Sniezynki/NPCs",
     "D&D/Wildemount/The Gold Prince/Inventory/Items",
