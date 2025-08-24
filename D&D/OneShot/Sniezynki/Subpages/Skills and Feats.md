@@ -93,7 +93,9 @@ Herbalism Kit
 
 
 ### Languages
-- 
+
+- Common
+- Abyssal
 
 
 --- end-multi-column

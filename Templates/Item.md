@@ -5,8 +5,6 @@ const folders = [
   // Add more folders here
 ];
 
-const folder =  await tp.system.suggester(folders, folders);
-
 const title = await tp.system.prompt("Itemnaam?");
 if (!title) {
   tR += "No title given, aborting.";
@@ -23,6 +21,8 @@ const storageOptions = [
 ];
 
 const storedin = await tp.system.suggester(storageOptions, storageOptions) || "Backpack";
+
+const folder =  await tp.system.suggester(folders, folders);
 
 const content = `---
 name: ${title}
