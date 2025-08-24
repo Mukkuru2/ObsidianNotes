@@ -36,6 +36,8 @@ spellcasting_ability: CHA
 
 
 
+
+
 ```dataviewjs
   const stats = ["STR", "DEX", "CON", "INT", "WIS", "CHA"];
   const pb = 2 + Math.floor((dv.current().level - 1) / 4);
@@ -60,6 +62,14 @@ spellcasting_ability: CHA
 
   dv.table(["Stat", "Score", "Modifier", "Save Prof?", "Save Total"], combinedTable);
 ```
+
+#### Abilities
+
+| **Ability** | **Used** |
+| ----------- | -------- |
+| Dread form  |  `=[[Volatile Stats]].dread_used` / `= 2 + floor((this.level - 1) / 4)`       |
+|             |          |
+
 
 --- column-end ---
 
