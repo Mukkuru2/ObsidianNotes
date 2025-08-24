@@ -1,2 +1,2 @@
 
-We're searching for Savalier Woods books. I find purple book with icon
+We're searching for [[Veluthil Forest (Savalier)]] books. I find purple book with icon of the forest

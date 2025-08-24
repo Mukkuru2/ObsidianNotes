@@ -4,8 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "1295d68a306bdab1",
+        "id": "ad5b16ecce092874",
         "type": "tabs",
+        "dimension": 57.233502538071065,
         "children": [
           {
             "id": "6c71dafa90620eb8",
@@ -13,30 +14,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/OneShot/Sniezynki/Subpages/Skills and Feats.md",
-                "mode": "preview",
-                "source": true
+                "file": "D&D/OneShot/Sniezynki/Places/Moonlit Spring.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Skills and Feats"
+              "title": "Moonlit Spring"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "4569dfb9ae7dcb8e",
+        "type": "tabs",
+        "dimension": 42.766497461928935,
+        "children": [
           {
             "id": "66b559e435095d81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/OneShot/Sniezynki/Subpages/Stats overview.md",
-                "mode": "source",
+                "file": "D&D/OneShot/Sniezynki/Sniezynki - Snie.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Stats overview"
+              "title": "Sniezynki - Snie"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,20 +191,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "66b559e435095d81",
+  "active": "6c71dafa90620eb8",
   "lastOpenFiles": [
-    "D&D/OneShot/Sniezynki/Subpages/Volatile Stats.md",
-    "D&D/OneShot/Sniezynki/Subpages/Skills and Feats.md",
     "D&D/OneShot/Sniezynki/Sniezynki - Snie.md",
+    "D&D/OneShot/Sniezynki/Places/Moonlit Spring.md",
+    "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Lamp.md",
+    "D&D/OneShot/Sniezynki/Places/Dewlight village.md",
+    "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Oil.md",
     "D&D/OneShot/Sniezynki/Subpages/Stats overview.md",
+    "D&D/OneShot/Sniezynki/Places/Veluthil Forest (Savalier).md",
+    "D&D/OneShot/Sniezynki/NPCs/Fenor.md",
+    "D&D/OneShot/Sniezynki/Places/Library.md",
+    "D&D/OneShot/Sniezynki/NPCs/Jackie Averra.md",
+    "D&D/OneShot/Sniezynki/Subpages/Skills and Feats.md",
+    "D&D/OneShot/Sniezynki/Subpages/Volatile Stats.md",
     "D&D/OneShot/Sniezynki/Subpages/Inventory/Inventory.md",
     "D&D/OneShot/Sniezynki/Subpages/Logbook.md",
     "D&D/OneShot/Sniezynki/Subpages/Sniezynka.webp",
     "Untitled.md",
     "D&D/OneShot/Sniezynki/Subpages/Description and Backstory.md",
-    "D&D/OneShot/Sniezynki/Places/Veluthil Forest (Savalier).md",
-    "D&D/OneShot/Sniezynki/Places/Library.md",
-    "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Oil.md",
     "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/test.md",
     "Templates/Item.md",
     "Hub.md",
@@ -209,11 +221,7 @@
     "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Money Pouch.md",
     "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Miscelaneous Pouch.md",
     "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Leather Armor.md",
-    "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Lamp.md",
     "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Ink Pen.md",
-    "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Ink.md",
-    "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Herbalism Kit.md",
-    "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Dagger.md",
     "D&D/OneShot/Sniezynki/Places",
     "D&D/OneShot/Sniezynki/NPCs",
     "D&D/Wildemount/The Gold Prince/Inventory/Items",

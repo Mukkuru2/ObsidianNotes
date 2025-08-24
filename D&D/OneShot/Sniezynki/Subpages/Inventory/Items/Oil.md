@@ -1,6 +1,6 @@
 ---
 name: Oil
-quantity: 9
+quantity: 8
 equipped: false
 stored_in: Backpack
 weight: 1
