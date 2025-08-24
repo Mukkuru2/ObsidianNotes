@@ -30,8 +30,8 @@ spellcasting_ability: CHA
 | **Full Name**  | `= this.name`     | **Level** | `= this.level` | 
 | -------------- | ------------------- | ---| ---|
 | **Background** | `= this.background `             | **Proficiency Bonus** | `= 2 + floor((this.level - 1) / 4)` |
-| **Alignment**  | `= this.alignment`      | HP | `= [[Volatile Stats]].hpcurrent` + `= [[Volatile Stats]].temphp` / `=this.HP_max` |
-| **Class**      | `= this.class`             | Hit Dice | `= [[Volatile Stats]].hitdice` / `= this.level` |
+| **Alignment**  | `= this.alignment`      | **HP** | `= [[Volatile Stats]].hpcurrent` + `= [[Volatile Stats]].temphp` / `=this.HP_max` |
+| **Class**      | `= this.class`             | **Hit Dice** | `= [[Volatile Stats]].hitdice` / `= this.level` |
 | **Xp**         | `= this.xp`                | 
 
 

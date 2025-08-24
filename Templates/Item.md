@@ -31,7 +31,10 @@ equipped: false
 stored_in: ${storedin}
 weight: 0
 worth: 0
----`;
+---
+
+#items
+`;
 
 await tp.file.create_new(content, `${folder}/${title}`);
 return;  // Stop template execution so no extra file is created
