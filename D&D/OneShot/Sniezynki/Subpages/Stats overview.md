@@ -1,6 +1,6 @@
 ---
 name: Sniezynki (Snie)
-class: Warlock (The Undying)
+class: Warlock (The Undead)
 level: 6
 xp: 14000
 race: Tiefling
