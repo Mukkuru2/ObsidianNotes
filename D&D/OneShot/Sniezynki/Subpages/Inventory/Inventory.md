@@ -112,6 +112,9 @@ for (let p of items) {
   totalWorth += p.worth * p.quantity ?? 0;
 }
 
+totalWeight = Math.round(totalWeight * 100) / 100;
+totalWorth  = Math.round(totalWorth * 100) / 100;
+
 finalRows.push(["\n\n<nbsp>\n<nbsp>\n","","","","","","",""])
 
 // Add a totals row to finalRows

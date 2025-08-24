@@ -3,6 +3,6 @@ name: Tinderbox
 quantity: 1
 equipped: false
 stored_in: Backpack
-weight: 0
-worth: 0
+weight: 1
+worth: 0.5
 ---

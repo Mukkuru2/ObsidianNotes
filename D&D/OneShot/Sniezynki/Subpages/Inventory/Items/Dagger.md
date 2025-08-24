@@ -3,8 +3,8 @@ name: Dagger
 quantity: 2
 equipped: false
 stored_in: Backpack
-weight: 0
-worth: 0
+weight: 1
+worth: 2
 ---
 
 |   |   |   |
