@@ -11,14 +11,10 @@
             "id": "2042ac8037459e43",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/OneShot/Sniezynki/Subpages/Stats overview.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Stats overview"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -197,10 +193,6 @@
   },
   "active": "2042ac8037459e43",
   "lastOpenFiles": [
-    "D&D/OneShot/Sniezynki/Subpages/Sniezynka.webp",
-    "D&D/OneShot/Sniezynki/Subpages/Description and Backstory.md",
-    "D&D/OneShot/Sniezynki/Subpages/Logbook.md",
-    "D&D/OneShot/Sniezynki/Subpages/Skills and Feats.md",
     "D&D/OneShot/Sniezynki/Subpages/Inventory/Inventory.md",
     "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Tinderbox.md",
     "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Sickle.md",
@@ -217,12 +209,18 @@
     "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Book.md",
     "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Backpack.md",
     "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Arcane Focus (orb).md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "D&D/OneShot/Sniezynki/Subpages/Stats overview.md",
+    "D&D/OneShot/Sniezynki/Subpages/Skills and Feats.md",
+    "D&D/OneShot/Sniezynki/Subpages/Logbook.md",
+    "D&D/OneShot/Sniezynki/Subpages/Description and Backstory.md",
+    "D&D/OneShot/Sniezynki/Subpages/Sniezynka.webp",
     "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Scholar's Pack.md",
     "D&D/OneShot/Sniezynki/Sniezynki - Snie.md",
     "Untitled.md",
     "Templates/Item.md",
     "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Rations.md",
-    "D&D/OneShot/Sniezynki/Subpages/Volatile Stats.md",
     "D&D/OneShot/Sniezynki/Places",
     "D&D/OneShot/Sniezynki/NPCs",
     "D&D/Wildemount/The Gold Prince/Inventory/Items",
@@ -232,8 +230,6 @@
     "D&D/OneShot/Sniezynki/Subpages/Inventory/Items",
     "D&D/OneShot/Sniezynki/Subpages/Inventory",
     "D&D/OneShot/Sniezynki/Wealth Distribution.csv",
-    "D&D/OneShot/Sniezynki/Subpages",
-    "D&D/OneShot/Sniezynki/Standard Weapons.csv",
-    "D&D/OneShot/Sniezynki/Spell Slots.csv"
+    "D&D/OneShot/Sniezynki/Subpages"
   ]
 }

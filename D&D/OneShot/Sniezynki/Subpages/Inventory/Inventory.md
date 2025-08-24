@@ -133,3 +133,5 @@ dv.table(
 );
 
 ```
+
+#items

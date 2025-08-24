@@ -6,3 +6,5 @@ stored_in: Backpack
 weight: 0
 worth: 0.1
 ---
+
+#items 

@@ -8,3 +8,5 @@ worth: 10
 ---
 
 AC: 11 + Dex modifier
+
+#items 

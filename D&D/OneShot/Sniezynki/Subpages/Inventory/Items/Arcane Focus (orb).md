@@ -6,3 +6,5 @@ stored_in: Body
 weight: 3
 worth: 20
 ---
+
+#items 
