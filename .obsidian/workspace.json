@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "D&D/OneShot/Sniezynki/Subpages/Stats overview.md",
-                "mode": "source",
-                "source": true
+                "mode": "preview",
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Stats overview"
@@ -171,9 +171,9 @@
   },
   "active": "6c71dafa90620eb8",
   "lastOpenFiles": [
-    "D&D/OneShot/Sniezynki/Subpages/Volatile Stats.md",
-    "D&D/OneShot/Sniezynki/Subpages/Stats overview.md",
     "D&D/OneShot/Sniezynki/Subpages/Sniezynka.webp",
+    "D&D/OneShot/Sniezynki/Subpages/Stats overview.md",
+    "D&D/OneShot/Sniezynki/Subpages/Volatile Stats.md",
     "D&D/OneShot/Sniezynki/Sniezynki - Snie.md",
     "D&D/OneShot/Sniezynki/Subpages/Logbook.md",
     "D&D/OneShot/Sniezynki/Places/Veluthil Forest (Savalier).md",

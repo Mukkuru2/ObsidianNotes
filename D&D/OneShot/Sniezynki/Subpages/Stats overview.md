@@ -38,12 +38,12 @@ holdperson: 1
 
 --- start-multi-column: BaseStats  
 
-| **Full Name**                  | `= this.name`        | **Level**             | `= this.level`                                                                    |
-| ------------------------------ | -------------------- | --------------------- | --------------------------------------------------------------------------------- |
-| **Background**                 | `= this.background ` | **Proficiency Bonus** | `= 2 + floor((this.level - 1) / 4)`                                               |
-| **Alignment**                  | `= this.alignment`   | **HP**                | `= [[Volatile Stats]].hpcurrent` + `= [[Volatile Stats]].temphp` / `=this.HP_max` |
-| **Class**                      | `= this.class`       | **Hit Dice**          | `= [[Volatile Stats]].hitdice` / `= this.level`                                   |
-| **Xp**                         | `= this.xp`          |                       |                                                                                   |
+| **Full Name**  | `= this.name`        | **Level**             | `= this.level`                                                                              |
+| -------------- | -------------------- | --------------------- | ------------------------------------------------------------------------------------------- |
+| **Background** | `= this.background ` | **Proficiency Bonus** | `= 2 + floor((this.level - 1) / 4)`                                                         |
+| **Alignment**  | `= this.alignment`   | **HP**                | `= [[Volatile Stats]].hpcurrent` + `= [[Volatile Stats]].temphp` / `=[[Volatile Stats]].hp` |
+| **Class**      | `= this.class`       | **Hit Dice**          | `= [[Volatile Stats]].hitdice` / `= this.level`                                             |
+| **Xp**         | `= this.xp`          |                       |                                                                                             |
 
 
 
@@ -142,78 +142,48 @@ const counters = [
   { field: "holdperson", label: "Hold Person", max: 1 }
 ];
 
-// Helper to read current value from YAML
-async function getVal(field) {
-  const content = await app.vault.read(file);
-  const match = content.match(new RegExp(`^${field}:\\s*(\\d+)`, 'm'));
-  return match ? Number(match[1]) : 0;
-}
-
-// Helper to set value directly in YAML
-async function setValDirect(field, newVal) {
-  let content = await app.vault.read(file);
-  const regex = new RegExp(`^${field}:\\s*(\\d+)`, 'm');
-  if (content.match(regex)) {
-    content = content.replace(regex, `${field}: ${newVal}`);
-  } else {
-    content += `\n${field}: ${newVal}`;
-  }
-  await app.vault.modify(file, content);
-}
-
-// Create a table row with buttons
+// Helper async 
+async function getVal(f) {
+    const v = await metaedit.getPropertyValue(f, file);
+    return v == null ? 0 : Number(v);
+} 
+// Counter row  
 function makeCounter(cfg, table) {
-  const row = table.insertRow();
-
-  // Label
-  row.insertCell().textContent = cfg.label + ":";
-
-  // Value display
-  const valueCell = row.insertCell();
-  const valueEl = valueCell.appendChild(document.createElement("span"));
-
-  // Buttons
-  const btnCell = row.insertCell();
-  const minus = btnCell.appendChild(document.createElement("button"));
-  minus.textContent = "➖";
-  const plus = btnCell.appendChild(document.createElement("button"));
-  plus.textContent = "➕";
-
-  // Update display text
-  const updateDisplay = async () => {
-    const cur = await getVal(cfg.field);
-    const max = cfg.max ? await getVal(cfg.max) : null;
-    valueEl.textContent = `${cur}${max !== null ? " / " + max : ""}`;
-  };
-
-  // Button actions
-  plus.onclick = async () => {
-    let cur = await getVal(cfg.field);
-    const max = cfg.max ? await getVal(cfg.max) : null;
-    if (max !== null && cur >= max) return;
-    await setValDirect(cfg.field, cur + 1);
-    await updateDisplay();
-  };
-
-  minus.onclick = async () => {
-    let cur = await getVal(cfg.field);
-    if (cur <= 0) return;
-    await setValDirect(cfg.field, cur - 1);
-    await updateDisplay();
-  };
-
-  // Initial display
-  updateDisplay();
-}
-
-// Initialize table
+    const row = table.insertRow();
+    row.insertCell().textContent = cfg.label + ":";
+    const valueCell = row.insertCell();
+    const valueEl = valueCell.appendChild(document.createElement("span"));
+    const btnCell = row.insertCell();
+    const minus = btnCell.appendChild(document.createElement("button"));
+    minus.textContent = "➖";
+    const plus = btnCell.appendChild(document.createElement("button"));
+    plus.textContent = "➕";
+    const updateDisplay = async () => {
+        const cur = await getVal(cfg.field);
+        const max = cfg.max ? await getVal(cfg.max) : null;
+        valueEl.textContent = `${cur}${max !== null ? " / " + max : ""}`;
+    };
+    plus.onclick = async () => {
+        let cur = await getVal(cfg.field);
+        const max = cfg.max ? await getVal(cfg.max) : null;
+        if (max !== null && cur >= max) return;
+        await metaedit.update(cfg.field, cur + 1, file);
+        await updateDisplay();
+    };
+    minus.onclick = async () => {
+        let cur = await getVal(cfg.field);
+        if (cur <= 0) return;
+        await metaedit.update(cfg.field, cur - 1, file);
+        await updateDisplay();
+    };
+    updateDisplay();
+} 
+// Initialize table 
 const table = root.createEl("table");
 table.classList.add("stat-table");
-
 for (const cfg of counters) {
-  makeCounter(cfg, table);
+    makeCounter(cfg, table);
 }
-
 
 ```
 
