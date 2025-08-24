@@ -18,7 +18,7 @@ const storageOptions = [
   "Backpack",
   "Miscelaneous Pouch",
   "Money Pouch",
-  "Equipped"
+  "Body"
   // Add more options here as needed
 ];
 
