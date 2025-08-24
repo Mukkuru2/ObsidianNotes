@@ -1,5 +1,5 @@
 ---
-hpcurrent: 41
-temphp: 12
+hpcurrent: 36
+temphp: 0
 hitdice: 3
 ---
