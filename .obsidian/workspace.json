@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/OneShot/Sniezynki/Subpages/Stats overview.md",
-                "mode": "source",
+                "file": "D&D/OneShot/Sniezynki/Subpages/Skills and Feats.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Stats overview"
+              "title": "Skills and Feats"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/OneShot/Sniezynki/Subpages/Volatile Stats.md",
+                "file": "D&D/OneShot/Sniezynki/Subpages/Stats overview.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Volatile Stats"
+              "title": "Stats overview"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,13 +184,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c71dafa90620eb8",
+  "active": "66b559e435095d81",
   "lastOpenFiles": [
     "D&D/OneShot/Sniezynki/Subpages/Volatile Stats.md",
-    "D&D/OneShot/Sniezynki/Subpages/Stats overview.md",
     "D&D/OneShot/Sniezynki/Subpages/Skills and Feats.md",
-    "D&D/OneShot/Sniezynki/Subpages/Inventory/Inventory.md",
     "D&D/OneShot/Sniezynki/Sniezynki - Snie.md",
+    "D&D/OneShot/Sniezynki/Subpages/Stats overview.md",
+    "D&D/OneShot/Sniezynki/Subpages/Inventory/Inventory.md",
     "D&D/OneShot/Sniezynki/Subpages/Logbook.md",
     "D&D/OneShot/Sniezynki/Subpages/Sniezynka.webp",
     "Untitled.md",

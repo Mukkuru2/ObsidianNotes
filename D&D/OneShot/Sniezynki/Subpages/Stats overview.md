@@ -65,11 +65,11 @@ spellcasting_ability: CHA
 
 #### Abilities
 
-| **Ability**    | **Used**                                                               |
-| -------------- | ---------------------------------------------------------------------- |
-| **Spellslots** | `=[[Volatile Stats]].spellslots_used` / 2 |
-| **Dread form** | `=[[Volatile Stats]].dread_used` / `= 2 + floor((this.level - 1) / 4)` |
-|      **Magical Cunning**          |                           `=[[`                                             |
+| **Ability**         | **Left**                                                               |
+| ------------------- | ---------------------------------------------------------------------- |
+| **Spellslots**      | `=2 - [[Volatile Stats]].spellslots_used` / 2                              |
+| **Dread form**      | `=(2 + floor((this.level - 1) / 4)) - [[Volatile Stats]].dread_used` / `= 2 + floor((this.level - 1) / 4)` |
+| **Magical Cunning** | `=1 - [[Volatile Stats]].spellslots_used` / 1                              |
 
 
 --- column-end ---
