@@ -8,3 +8,15 @@ spellslots_used: 0
 magical_cunning: 0
 lucky: 0
 ---
+
+```button
+name ➕ HP
+type command
+action MetaEdit: Increment value of field hpcurrent
+```
+
+```button
+name ➖ HP
+type command
+action MetaEdit: Decrement value of field "hpcurrent
+```
