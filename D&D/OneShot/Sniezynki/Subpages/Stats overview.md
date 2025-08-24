@@ -23,6 +23,33 @@ save_proficiencies:
 AC_base: 11
 HP_max: 43
 spellcasting_ability: CHA
+
+hpcurrent: 43
+hpmax: 43
+
+temphp: 12
+temphpmax: 20
+
+hitdice: 6
+hitdicemax: 6
+
+dread_used: 1
+dread_used_max: 3
+
+spellslots_used: 2
+spellslots_used_max: 4
+
+magical_cunning: 0
+magical_cunning_max: 1
+
+lucky: 0
+lucky_max: 3
+
+raysickness: 0
+raysickness_max: 1
+
+holdperson: 0
+holdperson_max: 1
 ---
 
 --- start-multi-column: BaseStats  
@@ -65,14 +92,6 @@ spellcasting_ability: CHA
 
 #### Abilities
 
-| **Ability**                    | **Speed** | **Left**                                                                                                   |
-| ------------------------------ | --------- | ---------------------------------------------------------------------------------------------------------- |
-| **Spellslots**                 |           | `=2 - [[Volatile Stats]].spellslots_used` / 2                                                              |
-| **Lucky**                      |           | `=3-[[Volatile Stats]].lucky` / 3                                                                          |
-| **Dread form**                 | BA        | `=(2 + floor((this.level - 1) / 4)) - [[Volatile Stats]].dread_used` / `= 2 + floor((this.level - 1) / 4)` |
-| **Magical Cunning**            | 1 min     | `=1 - [[Volatile Stats]].spellslots_used` / 1                                                              |
-| 1 free cast of Ray of Sickness | Action          | `=1 - [[Volatile Stats]].raysickness` / 1                                                                                                           |
-| 1 free cast of Hold Person     |  Action         | `=1 - [[Volatile Stats]].holdperson` / 1                                                                                                           |
 
 
 
