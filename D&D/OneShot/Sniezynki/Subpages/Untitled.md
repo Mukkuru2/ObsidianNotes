@@ -2,15 +2,15 @@
 hp: 43
 hpmax: 43
 temphp: 16
-hitdice: 6
+hitdice: 5
 hitdicemax: 6
-dreadused: 1
+dreadused: 0
 dreadusedmax: 3
-spellslotsused: 2
-spellslotsused_max: 2
-magicalcunning: 1
-magicalcunning_max: 1
-lucky: 0
+spellslotsused: 1
+spellslotsusedmax: 2
+magicalcunning: 0
+magicalcunningmax: 1
+lucky: 3
 luckymax: 3
 raysickness: 0
 raysicknessmax: 1
@@ -26,7 +26,7 @@ const metaedit = app.plugins.plugins["metaedit"]?.api;
 if (!metaedit) { dv.paragraph("❌ MetaEdit not loaded"); return; }
 
 const file = app.workspace.getActiveFile();
-const root = this.container; // stable reference
+const root = this.container;
 
 async function getVal(f) {
   const v = await metaedit.getPropertyValue(f, file);
@@ -38,13 +38,23 @@ async function setVal(f, v) {
   await render();
 }
 
-function makeCounter(field, label, maxField) {
-  const row = root.createDiv({ cls: "flex gap-2 items-center my-1" });
-  row.createSpan({ text: label + ":", cls: "font-bold" });
-  const valueEl = row.createSpan({ text: "…" });
+function makeCounter(field, label, maxField, table) {
+  const row = table.insertRow();
 
-  const plus = row.createEl("button", { text: "➕" });
-  const minus = row.createEl("button", { text: "➖" });
+  // Label cell
+  row.insertCell().textContent = label + ":";
+
+  // Value cell
+  const valueCell = row.insertCell();
+  const valueEl = valueCell.appendChild(document.createElement("span"));
+  valueEl.textContent = "…";
+
+  // Buttons cell
+  const btnCell = row.insertCell();
+  const minus = btnCell.appendChild(document.createElement("button"));
+  minus.textContent = "➖";
+  const plus = btnCell.appendChild(document.createElement("button"));
+  plus.textContent = "➕";
 
   plus.onclick = async () => {
     let cur = await getVal(field);
@@ -62,7 +72,7 @@ function makeCounter(field, label, maxField) {
   row.refresh = async () => {
     const cur = await getVal(field);
     const max = maxField ? await getVal(maxField) : null;
-    valueEl.setText(` ${cur}${max !== null ? " / " + max : ""}`);
+    valueEl.textContent = `${cur}${max !== null ? " / " + max : ""}`;
   };
 
   return row;
@@ -71,27 +81,28 @@ function makeCounter(field, label, maxField) {
 async function render() {
   root.innerHTML = "";
 
-	/*const counters = [ 
-	["hp", "Hit Points"], 
-	["temphp", "Temp HP"], 
-	["hitdice", "Hit Dice"], 
-	["dreadused", "Dread Used"], 
-	["spellslots_used", "Spell Slots Used"], 
-	["magicalcunning", "Magical Cunning"], 
-	["lucky", "Lucky"], 
-	["raysickness", "Ray Sickness"], 
-	["holdperson", "Hold Person"] ];
+  const table = root.createEl("table");
+  table.classList.add("stat-table");
 
-  for (const [field, label] of counters) { 
-	  const row = makeCounter(field, label, field + "max", this.container); 
-	  await row.refresh(); 
-  }*/
-  const row = makeCounter("hp", "Hit Points", "hpmax");
-  await row.refresh();
-  const row2 = makeCounter("lucky", "Hit Points", "luckymax");
-  await row2.refresh();
+  const counters = [
+    ["hp", "Hit Points"],
+    ["temphp", "Temp HP"],
+    ["hitdice", "Hit Dice"],
+    ["dreadused", "Dread Used"],
+    ["spellslotsused", "Spell Slots Used"],
+    ["magicalcunning", "Magical Cunning"],
+    ["lucky", "Lucky"],
+    ["raysickness", "Ray Sickness"],
+    ["holdperson", "Hold Person"],
+  ];
+
+  for (const [field, label] of counters) {
+    const row = makeCounter(field, label, field + "max", table);
+    await row.refresh();
+  }
 }
 
 render();
+
 
 ```
