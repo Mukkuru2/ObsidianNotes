@@ -33,9 +33,6 @@ spellcasting_ability: CHA
 | **Alignment**                  | `= this.alignment`   | **HP**                | `= [[Volatile Stats]].hpcurrent` + `= [[Volatile Stats]].temphp` / `=this.HP_max` |
 | **Class**                      | `= this.class`       | **Hit Dice**          | `= [[Volatile Stats]].hitdice` / `= this.level`                                   |
 | **Xp**                         | `= this.xp`          |                       |                                                                                   |
-| 1 free cast of Ray of Sickness |                      |                       |                                                                                   |
-| 1 free cast of Hold Person     |                      |                       |                                                                                   |
-|                                |                      |                       |                                                                                   |
 
 
 
@@ -68,12 +65,14 @@ spellcasting_ability: CHA
 
 #### Abilities
 
-| **Ability**         | **Speed** | **Left**                                                                                                   |
-| ------------------- | ---------- | ---------------------------------------------------------------------------------------------------------- |
-| **Spellslots**      |            | `=2 - [[Volatile Stats]].spellslots_used` / 2                                                              |
-| **Lucky**           |            | `=3-[[Volatile Stats]].lucky` / 3                                                                          |
-| **Dread form**      | BA         | `=(2 + floor((this.level - 1) / 4)) - [[Volatile Stats]].dread_used` / `= 2 + floor((this.level - 1) / 4)` |
-| **Magical Cunning** | 1 min      | `=1 - [[Volatile Stats]].spellslots_used` / 1                                                              |
+| **Ability**                    | **Speed** | **Left**                                                                                                   |
+| ------------------------------ | --------- | ---------------------------------------------------------------------------------------------------------- |
+| **Spellslots**                 |           | `=2 - [[Volatile Stats]].spellslots_used` / 2                                                              |
+| **Lucky**                      |           | `=3-[[Volatile Stats]].lucky` / 3                                                                          |
+| **Dread form**                 | BA        | `=(2 + floor((this.level - 1) / 4)) - [[Volatile Stats]].dread_used` / `= 2 + floor((this.level - 1) / 4)` |
+| **Magical Cunning**            | 1 min     | `=1 - [[Volatile Stats]].spellslots_used` / 1                                                              |
+| 1 free cast of Ray of Sickness | Action          | `=1 - [[Volatile Stats]].raysickness` / 1                                                                                                           |
+| 1 free cast of Hold Person     |  Action         | `=1 - [[Volatile Stats]].holdperson` / 1                                                                                                           |
 
 
 
