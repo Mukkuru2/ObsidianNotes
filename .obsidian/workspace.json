@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/Wildemount/The Gold Prince/Subpages/Inventory/Inventory.md",
-                "mode": "preview",
+                "file": "D&D/Wildemount/The Gold Prince/Subpages/Stats overview.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Inventory"
+              "title": "Stats overview"
             }
           },
           {
@@ -185,9 +185,9 @@
   },
   "active": "6c71dafa90620eb8",
   "lastOpenFiles": [
-    "D&D/Wildemount/The Gold Prince/Subpages/Inventory/Items/Stone of AntiSurprise.md",
-    "D&D/Wildemount/The Gold Prince/Subpages/Inventory/Inventory.md",
     "D&D/Wildemount/The Gold Prince/The Gold Prince.md",
+    "D&D/Wildemount/The Gold Prince/Subpages/Inventory/Inventory.md",
+    "D&D/Wildemount/The Gold Prince/Subpages/Inventory/Items/Stone of AntiSurprise.md",
     "D&D/Wildemount/The Gold Prince/Subpages/gold-prince.png",
     "Notes/25-11-29.md",
     "D&D/Wildemount/The Gold Prince/Subpages/Spells.md",
