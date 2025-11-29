@@ -1,6 +1,6 @@
 ---
 name: Stone of AntiSurprise
-quantity: 1
+quantity: 0
 equipped: false
 stored_in: Miscelaneous Pouch
 weight: 0

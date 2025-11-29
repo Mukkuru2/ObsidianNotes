@@ -43,7 +43,7 @@ dv.table(
 ```dataviewjs
 const folder = dv.current().file.folder + "/Items";
 const items = dv.pages('"' + folder + '"')
-  .where(p => p.quantity !== undefined)
+  .where(p => p.quantity !== undefined && p.quantity >= 1)
   .sort(p => p.stored_in ?? "");
 
 // Calculate totals
