@@ -1,6 +1,6 @@
 <%*
 const folders = [
-  "D&D/Wildemount/The Gold Price/Subpages/Inventory/Items",
+  "D&D/Wildemount/The Gold Prince/Subpages/Inventory/Items",
   "D&D/OneShot/Sniezynki/Subpages/Inventory/Items",
   // Add more folders here
 ];
