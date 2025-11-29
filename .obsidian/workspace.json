@@ -49,7 +49,8 @@
               "title": "The Gold Prince"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,14 +198,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c71dafa90620eb8",
+  "active": "16499c71424bc3e4",
   "lastOpenFiles": [
+    "D&D/Wildemount/The Gold Prince/Subpages/Stats overview.md",
     "D&D/Wildemount/The Gold Prince/Subpages/Skills and Feats.md",
     "D&D/Wildemount/The Gold Prince/Subpages/gold-prince.png",
     "D&D/Wildemount/The Gold Prince/Subpages/Description and Backstory.md",
     "D&D/Wildemount/The Gold Prince/The Gold Prince.md",
     "Notes/25-11-29.md",
-    "D&D/Wildemount/The Gold Prince/Subpages/Stats overview.md",
     "D&D/Wildemount/The Gold Prince/Subpages/Inventory/Inventory.md",
     "D&D/Wildemount/The Gold Prince/Subpages/Spells.md",
     "D&D/Wildemount/The Gold Prince/Subpages/Inventory/Items/Javelin (Bonded).md",
