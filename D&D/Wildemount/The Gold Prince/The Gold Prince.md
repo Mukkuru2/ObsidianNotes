@@ -10,4 +10,5 @@
 > ![[D&D/Wildemount/The Gold Prince/Subpages/Inventory/Inventory]]
 
 > [!Magic]-
-> ![[D&D/Wildemount/The Gold Prince/Subpages/Inventory/Spells]]
+> ![[Spells]]
+
