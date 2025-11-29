@@ -1,0 +1,45 @@
+﻿Wielded By...,Name,Simple/Martial,Melee/Ranged,Damage,Properties,Cost (GP)
+,Battleaxe,Martial,Melee,1d8 + Str Slashing,Versatile (1d10),10
+,Blowgun,Martial,Ranged,1 + Str Piercing,"Ammunition (25/100), Loading",10
+,Boomerang (Custom),Simple,Ranged,1d4 + Str Bludgeoning,"Light, Special, Thrown 60/120",0.6
+,Brass Knuckles (Custom),Simple,Melee,1d4 + Str Bludgeoning,"Light, Special",1
+,Club,Simple,Melee,1d4 + Str Bludgeoning,Light,0.1
+,"Crossbow, hand",Martial,Ranged,1d6 + Dex Piercing,"Ammunition (30/120), Light, Loading",75
+,"Crossbow, heavy",Martial,Ranged,1d10 + Dex Piercing,"Ammunition (150/600), Heavy, Loading, Two-Handed",50
+,"Crossbow, light",Simple,Ranged,1d8 + Dex Piercing,"Ammunition (80/320), Loading, Two-Handed",25
+,Dagger,Simple,Melee,1d4 + Dex (or Str) Piercing,"Finesse, Light, Thrown (20/60)",2
+,Dart,Simple,Ranged,1d4 + Dex (or Str) Piercing,"Finesse, Thrown (20/60)",0.05
+,Double-Bladed Scimitar,Martial,Melee,2d4 + Str Slashing,"Special, Two-Handed",100
+,Flail,Martial,Melee,1d8 + Str Bludgeoning,,10
+,Glaive,Martial,Melee,1d10 + Str Slashing,"Heavy, Reach, Two-Handed",20
+,Greataxe,Martial,Melee,1d12 + Str Slashing,"Heavy, Two-Handed",30
+,Greatbow (Custom),Martial,Ranged,2d6 + Dex Piercing,"Ammunition 200/800, Heavy, Special, Two-Handed",200
+Berrk't,Greatclub,Simple,Melee,1d8 + Str Bludgeoning,Two-Handed,0.2
+,Greatsword,Martial,Melee,2d6 + Str Slashing,"Heavy, Two-Handed",50
+,Halberd,Martial,Melee,1d10 + Str Slashing,"Heavy, Reach, Two-Handed",20
+,Handaxe,Simple,Melee,1d6 + Str Slashing,"Light, Thrown (20/60)",5
+,Javelin,Simple,Melee,1d6 + Str Piercing,Thrown (30/120),0.5
+,Lance,Martial,Melee,1d12 + Str Piercing,"Reach, Special",10
+,Light Hammer,Simple,Melee,1d4 + Str Bludgeoning,"Light, Thrown (20/60)",2
+,Longbow,Martial,Ranged,1d8 + Dex Piercing,"Ammunition (150/600), Heavy, Two-Handed",50
+,Longsword,Martial,Melee,1d8 + Str Slashing,Versatile (1d10),15
+,Mace,Simple,Melee,1d6 + Str Bludgeoning,,5
+,Maul,Martial,Melee,2d6 + Str Bludgeoning,"Heavy, Two-Handed",10
+,Morningstar,Martial,Melee,1d8 + Str Piercing,,15
+,Net,Martial,Ranged,-,"Special, Thrown (5/15)",1
+,Peasant Flail (Custom),Simple,Melee,1d8 + Str Bludgeoning,"Reach, Two-Handed",0.8
+,Pike,Martial,Melee,1d10 + Str Piercing,"Heavy, Reach, Two-Handed",5
+,Quarterstaff,Simple,Melee,1d6 + Str Bludgeoning,Versatile (1d8),0.2
+,Rapier,Martial,Melee,1d8 + Dex (or Str) Piercing,Finesse,25
+Berrk't,Scimitar,Martial,Melee,1d6 + Dex (or Str) Slashing,"Finesse, Light",25
+,Shortbow,Simple,Ranged,1d6 + Dex Piercing,"Ammunition (80/320), Two-Handed",25
+,Shortsword,Martial,Melee,1d6 + Dex (or Str) Piercing,"Finesse, Light",10
+,Sickle,Simple,Melee,1d4 + Str Slashing,Light,1
+,Sling,Simple,Ranged,1d4 + Dex Piercing,Ammunition (30/120),0.1
+,Spear,Simple,Melee,1d6 + Str Piercing,"Thrown (20/60), Versatile (1d8)",1
+,Trident,Martial,Melee,1d6 + Str Piercing,"Thrown (20/60), Versatile (1d8)",5
+,Unarmed Strike,,Melee,1 + Str Bludgeoning,,0
+,War Pick,Martial,Melee,1d8 + Str Piercing,,5
+,Warhammer,Martial,Melee,1d8 + Str Bludgeoning,Versatile (1d10),15
+,Whip,Martial,Melee,1d4 + Dex (or Str) Slashing,"Finesse, Reach",2
+,,,,,,

@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "becdeb3ce174c64b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad5b16ecce092874",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c71dafa90620eb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/OneShot/Sniezynki/Subpages/Stats overview.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Stats overview"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "120fffc75cd82097",
+    "type": "split",
+    "children": [
+      {
+        "id": "15547740a72e979c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a1234941c0b0d53",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c208c026cd3eea82",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#item",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b93e6c6fd265e059",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8b703f5a0b4823fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "20c10dca04ab951b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7566754353b8f893",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "1a7250f08a8b661d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "d8e3244197a73539",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "eb010e3fbb9bfc4b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "6c71dafa90620eb8",
+  "lastOpenFiles": [
+    "D&D/OneShot/Sniezynki/Subpages/Sniezynka.webp",
+    "D&D/OneShot/Sniezynki/Subpages/Stats overview.md",
+    "D&D/OneShot/Sniezynki/Subpages/Volatile Stats.md",
+    "D&D/OneShot/Sniezynki/Sniezynki - Snie.md",
+    "D&D/OneShot/Sniezynki/Subpages/Logbook.md",
+    "D&D/OneShot/Sniezynki/Places/Veluthil Forest (Savalier).md",
+    "D&D/OneShot/Sniezynki/Subpages/Inventory/Inventory.md",
+    "D&D/OneShot/Sniezynki/Subpages/Skills and Feats.md",
+    "D&D/OneShot/Sniezynki/Subpages/Description and Backstory.md",
+    "D&D/OneShot/Sniezynki/NPCs/Witch-hag from the hut.md",
+    "D&D/OneShot/Sniezynki/Places/Moonlit Spring.md",
+    "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Lamp.md",
+    "D&D/OneShot/Sniezynki/Places/Dewlight village.md",
+    "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Oil.md",
+    "D&D/OneShot/Sniezynki/NPCs/Fenor.md",
+    "D&D/OneShot/Sniezynki/Places/Library.md",
+    "D&D/OneShot/Sniezynki/NPCs/Jackie Averra.md",
+    "Untitled.md",
+    "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/test.md",
+    "Templates/Item.md",
+    "Hub.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Tinderbox.md",
+    "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Sickle.md",
+    "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Parchment.md",
+    "D&D/OneShot/Sniezynki/Subpages/Inventory/Items/Money Pouch.md",
+    "D&D/OneShot/Sniezynki/Places",
+    "D&D/OneShot/Sniezynki/NPCs",
+    "D&D/Wildemount/The Gold Prince/Inventory/Items",
+    "D&D/Wildemount/The Gold Prince/Inventory",
+    "D&D/Wildemount/The Gold Prince/Subpages/gold-prince.png",
+    "D&D/OneShot/Sniezynki/Subpages/gold-prince.png",
+    "D&D/OneShot/Sniezynki/Subpages/Inventory/Items",
+    "D&D/OneShot/Sniezynki/Subpages/Inventory",
+    "D&D/OneShot/Sniezynki/Wealth Distribution.csv",
+    "D&D/OneShot/Sniezynki/Subpages"
+  ]
+}

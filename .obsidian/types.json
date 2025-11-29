@@ -1,0 +1,14 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "level": "number",
+    "AC": "number",
+    "hp": "number",
+    "speed": "number",
+    "treasury": "multitext",
+    "currency": "multitext",
+    "stored_in": "text"
+  }
+}
