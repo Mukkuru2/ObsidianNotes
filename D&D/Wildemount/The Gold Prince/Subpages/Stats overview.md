@@ -23,7 +23,7 @@ save_proficiencies:
   - CON
 AC_base: 16
 HP_max: 37
-HP_current: 37
+HP_current: 32
 Initiative_bonus: 0
 spellcasting_ability: INT
 ---
