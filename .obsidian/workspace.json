@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "c518f5bececcdcac",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
+          },
+          {
             "id": "480913ec2a070691",
             "type": "leaf",
             "state": {
@@ -49,7 +61,8 @@
               "title": "The Gold Prince"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,7 +210,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c71dafa90620eb8",
+  "active": "c518f5bececcdcac",
   "lastOpenFiles": [
     "D&D/Wildemount/The Gold Prince/Subpages/Stats overview.md",
     "D&D/Wildemount/The Gold Prince/The Gold Prince.md",
