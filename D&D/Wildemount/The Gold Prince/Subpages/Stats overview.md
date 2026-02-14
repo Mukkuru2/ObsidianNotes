@@ -21,7 +21,8 @@ proficiencies:
 save_proficiencies:
   - STR
   - CON
-AC_base: 16
+AC_base: 15
+AC_bonus: 0
 HP_max: 37
 HP_current: 37
 HP_temp: 5
@@ -37,7 +38,7 @@ spellcasting_ability: INT
 | **Alignment**  | `= this.alignment`      | Hit Dice Total | `=this.level` |
 | **Class**      | `= this.class`             | Max HP |  `=this.HP_max`|
 | **Subclass**   | [Eldritch Knight]() | HP |  `=this.HP_current`|
-| **Xp**         | 2262                |
+| **Xp**         | 2262                | AC | `=this.AC_base` + `=this.AC_bonus`
 
 
 

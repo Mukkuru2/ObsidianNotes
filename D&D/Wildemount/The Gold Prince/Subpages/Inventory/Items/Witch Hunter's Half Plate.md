@@ -19,3 +19,4 @@ A suit of half-plate worn by those who dedicate their lives to hunting and destr
     
 
 ARMOR (HALF PLATE), RARE REQUIRES ATTUNEMENT
+
