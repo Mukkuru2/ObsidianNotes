@@ -35,7 +35,7 @@ spellcasting_ability: INT
 | -------------- | ------------------- | ---| ---|
 | **Background** | `= this.background `             | **Proficiency Bonus** | `= 2 + floor((this.level - 1) / 4)` |
 | **Alignment**  | `= this.alignment`      | Hit Dice Total | `=this.level` |
-| **Class**      | `= this.class`             | HP |  `=this.HP_max`|
+| **Class**      | `= this.class`             | max HP |  `=this.HP_max`|
 | **Subclass**   | [Eldritch Knight]() | HP |  `=this.HP_current`|
 | **Xp**         | 2262                |
 

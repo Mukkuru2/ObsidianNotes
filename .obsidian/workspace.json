@@ -22,19 +22,7 @@
             }
           },
           {
-            "id": "c518f5bececcdcac",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
-            }
-          },
-          {
-            "id": "480913ec2a070691",
+            "id": "16499c71424bc3e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -45,20 +33,6 @@
               },
               "icon": "lucide-file",
               "title": "Stats overview"
-            }
-          },
-          {
-            "id": "16499c71424bc3e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/Wildemount/The Gold Prince/The Gold Prince.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "The Gold Prince"
             }
           }
         ],
@@ -210,16 +184,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c518f5bececcdcac",
+  "active": "16499c71424bc3e4",
   "lastOpenFiles": [
+    "D&D/Wildemount/The Gold Prince/Subpages/Spells.md",
+    "D&D/Wildemount/The Gold Prince/Subpages/Skills and Feats.md",
+    "D&D/Wildemount/The Gold Prince/Subpages/Inventory/Inventory.md",
+    "D&D/Wildemount/The Gold Prince/Subpages/Description and Backstory.md",
     "D&D/Wildemount/The Gold Prince/Subpages/Stats overview.md",
     "D&D/Wildemount/The Gold Prince/The Gold Prince.md",
-    "D&D/Wildemount/The Gold Prince/Subpages/Skills and Feats.md",
     "D&D/Wildemount/The Gold Prince/Subpages/gold-prince.png",
-    "D&D/Wildemount/The Gold Prince/Subpages/Description and Backstory.md",
     "Notes/25-11-29.md",
-    "D&D/Wildemount/The Gold Prince/Subpages/Inventory/Inventory.md",
-    "D&D/Wildemount/The Gold Prince/Subpages/Spells.md",
     "D&D/Wildemount/The Gold Prince/Subpages/Inventory/Items/Javelin (Bonded).md",
     "D&D/Wildemount/The Gold Prince/Subpages/Inventory/Items/Hammer.md",
     "D&D/Wildemount/The Gold Prince/Subpages/Inventory/Items/Stone of AntiSurprise.md",
