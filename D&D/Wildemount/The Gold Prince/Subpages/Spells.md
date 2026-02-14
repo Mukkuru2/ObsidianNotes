@@ -12,5 +12,5 @@ Detect magic (alternate)
 
 | **Slot level** | Max | Used |
 | -------------- | --- | ---- |
-| 1              | 2   | 0    |
+| 1              | 2   | 1    |
 |                |     |      |
