@@ -1,8 +1,8 @@
 ---
-hp: 41
+hp: 32
 hpmax: 43
 temphp: 0
-hitdice: 5
+hitdice: 4
 hitdicemax: 6
 dreadused: 3
 dreadusedmax: 3
