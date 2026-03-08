@@ -25,12 +25,14 @@
             "id": "674012f93d9369ee",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.4"
+                "file": "D&D/Kayla Nevarro.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
+              "icon": "lucide-file",
+              "title": "Kayla Nevarro"
             }
           }
         ],
@@ -184,6 +186,7 @@
   },
   "active": "674012f93d9369ee",
   "lastOpenFiles": [
+    "D&D/Kayla Nevarro.md",
     "D&D/OneShot/Sniezynki/Subpages/Volatile Stats.md",
     "D&D/OneShot/Sniezynki/Subpages/Sniezynka.webp",
     "D&D/OneShot/Sniezynki/Subpages/Stats overview.md",
