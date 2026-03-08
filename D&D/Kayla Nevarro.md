@@ -9,3 +9,4 @@ Instead, her mother took on a job there as part of the staff. For Kayla, that tr
 She has also seen how the Circus Circus operates in the quiet hours, when there are no tourists around. It's almost a completely different place when it is deserted like that, and Kayla usually gets creeped out.
 
 ---
+
